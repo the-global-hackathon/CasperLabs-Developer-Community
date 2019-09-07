@@ -48,24 +48,22 @@ https://github.com/CasperLabs/CasperLabs/releases
 
 The CasperLabs Explorer takes one to the GUI to setup keys, obtain muneration, run transactions https://explorer.casperlabs.io/
 
-dApp Developers
+## dApp Developers
 Developers (Developer Journey)  want to:
 
 * Understand what CasperLabs is building
-Architecture
-https://casperlabs.atlassian.net/wiki/spaces/EN/pages/12713999/Architecture+of+the+CasperLabs+node
-
+  * Architecture
+    https://casperlabs.atlassian.net/wiki/spaces/EN/pages/12713999/Architecture+of+the+CasperLabs+node
 * How to build and operate applications on the platform
 * How to set up the CasperLabs environment locally
 * How to create and test Smart Contracts with our Libraries
 
-Pre-requisites:
+**Pre-requisites:**
 Linux (OSx coming in October)
 Programming knowledge
 JavaScript and or Python
 
-Reference Implementation:
-
+**Reference Implementation:**
 The following set of documentation is presented in order and provides instructions on Linux setting up the CasperLabs implementation locally, setting up Nodes, and building, testing, and executing Smart contracts to address your use case.
 
 Installing the CasperLabs Node
@@ -95,39 +93,37 @@ https://github.com/CasperLabs/CasperLabs/blob/dev/CONTRIBUTING.md
 * Command of Rust, Rust Cargo, JavaScript, Python
 
 
-
-
 ## Blockchain Enthusiasts:
 General Enthusiasts of Blockchain technology are members of the CasperLabs Community who are curious to learn more about CasperLabs to:
 * Understand what CasperLabs is building and its unique features
 * Learn about the technical resources like specifications, mathematical papers, etc.
 * Keep updated about development status, use cases, and dApps (subscribe)
 
-Math Proof
+**Math Proof**
 Introducing the "minimal" CBC Casper Consensus Protocols.
 https://github.com/cbc-casper/cbc-casper-paper/blob/master/cbc-casper-paper-draft.pdf
 https://techspec.casperlabs.io/technical-details/block-storage/cbc-casper
 
-See our Specification
+**Specification**
 https://casperlabs.atlassian.net/wiki/spaces/EN/pages/123437404/Specifications
 https://techspec.casperlabs.io/
 
 
 # Getting Help
-CasperLabs Community Forum
-Telegram Channel
+  * CasperLabs Community Forum
+  * Telegram Channel
 
 # Known Issues
 Currently we are creating tools to build and run execution-engine binaries on a Mac. We recommend using docker for now or run the implementation on Linux.
  
-## Reporting Issues
+# Reporting Issues
 If you find any issues, please file an issue:
 You can also find support and resources for help as needed:
 https://github.com/CasperLabs/CasperLabs/tree/dev/execution-engine/contract-ffi
 
 
 
-## Resources
+# Resources
 * CBC CasperLabs Resource List
 https://github.com/ethereum/cbc-casper/wiki/Resource-List
 * About CBC Casper proof-of-stake protocol
