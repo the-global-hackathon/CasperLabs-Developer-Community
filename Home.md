@@ -108,7 +108,7 @@ General Enthusiasts of Blockchain technology are members of the CasperLabs Commu
 * Learn about the technical resources like specifications, mathematical papers, etc.
 * Keep updated about development status, use cases, and dApps (subscribe)
 
-**Math Proof**
+### Math Proof
 Introducing the "minimal" CBC Casper Consensus Protocols.
 
 https://github.com/cbc-casper/cbc-casper-paper/blob/master/cbc-casper-paper-draft.pdf
@@ -116,8 +116,7 @@ https://github.com/cbc-casper/cbc-casper-paper/blob/master/cbc-casper-paper-draf
 https://techspec.casperlabs.io/technical-details/block-storage/cbc-casper
 
 
-**Specification**
-
+### Specification
 https://casperlabs.atlassian.net/wiki/spaces/EN/pages/123437404/Specifications
 
 https://techspec.casperlabs.io/
@@ -134,6 +133,7 @@ Currently we are creating tools to build and run execution-engine binaries on a 
 If you find any issues, please file an issue:
 
 You can also find support and resources for help as needed:
+
 https://github.com/CasperLabs/CasperLabs/tree/dev/execution-engine/contract-ffi
 
 
