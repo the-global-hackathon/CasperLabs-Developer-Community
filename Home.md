@@ -7,10 +7,10 @@ So far the development has been through internal resources and we are now at a s
 ## Current Developments
 CasperLabs has developed a fully decentralized, sharded and scalable next-generation blockchain, implementing Correct-by-construction (CBC) Casper proof-of-stake protocol.
 
-** Devnet **(Public Dev Net) 
+** Devnet (Public Dev Net) ** 
 We recently launched Devnet, our Public Dev Net where Developers can run nodes and connect to a public bootstrap node.
  
-** Testnet **(Public Test Net) 
+** Testnet (Public Test Net) ** 
 We are also well on schedule for November 2019 to launch Testnet;  the feature complete, decentralized Public Test Net.
 
 Note: CasperLabs does not yet have a bounty program but may consider one after launch of Testnet.
@@ -40,9 +40,10 @@ Learn how to operate a validator node or stake the network and understand econom
 Join a community of like-minded believers
 
 **Pre-requisites:**
-Web access
-Basic understanding on how to use web applications for generating and validating blockchain transactions.
-Download and Set Up a Node
+* Web access
+* Basic understanding on how to use web applications for generating and validating blockchain transactions.
+* Download and Set Up a Node
+
 See what is currently available in CasperLabs most current versions and get started with CasperLabs Explorer application. 
 https://github.com/CasperLabs/CasperLabs/releases
 
