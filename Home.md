@@ -109,12 +109,17 @@ General Enthusiasts of Blockchain technology are members of the CasperLabs Commu
 * Keep updated about development status, use cases, and dApps (subscribe)
 
 **Math Proof**
+
 Introducing the "minimal" CBC Casper Consensus Protocols.
+
 https://github.com/cbc-casper/cbc-casper-paper/blob/master/cbc-casper-paper-draft.pdf
+
 https://techspec.casperlabs.io/technical-details/block-storage/cbc-casper
 
 **Specification**
+
 https://casperlabs.atlassian.net/wiki/spaces/EN/pages/123437404/Specifications
+
 https://techspec.casperlabs.io/
 
 
