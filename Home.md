@@ -7,10 +7,10 @@ So far the development has been through internal resources and we are now at a s
 ## Current Developments
 CasperLabs has developed a fully decentralized, sharded and scalable next-generation blockchain, implementing Correct-by-construction (CBC) Casper proof-of-stake protocol.
 
-** Devnet (Public Dev Net) ** 
+### Devnet (Public Dev Net) 
 We recently launched Devnet, our Public Dev Net where Developers can run nodes and connect to a public bootstrap node.
  
-** Testnet (Public Test Net) ** 
+### Testnet (Public Test Net) 
 We are also well on schedule for November 2019 to launch Testnet;  the feature complete, decentralized Public Test Net.
 
 Note: CasperLabs does not yet have a bounty program but may consider one after launch of Testnet.
@@ -32,12 +32,12 @@ The information provided herein is intended for CasperLabs Community members as 
 * General Blockchain Enthusiasts members of the CasperLabs Community who support this technology and are interested in learning more about CasperLabs progress on our roadmap,
  
 # Getting Started
-The open-source CasperLabs project is building a decentralized, economic, censorship-resistant, public computer infrastructure and blockchain. It hosts and execute programs popularly referred to as “smart contracts”. It is trustworthy, scalable, concurrent, with proof-of-stake consensus and content delivery. See our Technical Specification https://techspec.casperlabs.io/  (in process) to understand why. 
+The open-source CasperLabs project is building a decentralized, economic, censorship-resistant, public computer infrastructure and blockchain. It hosts and execute programs popularly referred to as “smart contracts”. It is trustworthy, scalable, concurrent, with proof-of-stake consensus and content delivery. See our Technical Specification https://techspec.casperlabs.io/ to understand why. 
  
 ## Validators/Node Operators (Investors)
-With this documentation you will gain insight and understanding about what CasperLabs is building
-Learn how to operate a validator node or stake the network and understand economics behind it
-Join a community of like-minded believers
+* With this documentation you will gain insight and understanding about what CasperLabs is building
+* Learn how to operate a validator node or stake the network and understand economics behind it
+* Join a community of like-minded believers
 
 **Pre-requisites:**
 * Web access
@@ -60,21 +60,29 @@ Developers (Developer Journey)  want to:
 * How to create and test Smart Contracts with our Libraries
 
 **Pre-requisites:**
-Linux (OSx coming in October)
-Programming knowledge
-JavaScript and or Python
+ * Linux (OSx coming in October)
+ * Programming knowledge
+ * JavaScript and or Python
 
 **Reference Implementation:**
 The following set of documentation is presented in order and provides instructions on Linux setting up the CasperLabs implementation locally, setting up Nodes, and building, testing, and executing Smart contracts to address your use case.
 
 Installing the CasperLabs Node
+
 Building the CasperLabs Node
+
 Creating Keys
+
 Running the CasperLabs Node
+
 Deploying Contracts
+
 Querying
+
 Contributing
+
 Useful Diagrams
+
 Future Documentation on contracts
 
 
