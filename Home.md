@@ -44,10 +44,10 @@ The open-source CasperLabs project is building a decentralized, economic, censor
 * Basic understanding on how to use web applications for generating and validating blockchain transactions.
 * Download and Set Up a Node
 
-See what is currently available in CasperLabs most current versions and get started with CasperLabs Explorer application. 
+* See what is currently available in CasperLabs most current versions and get started with CasperLabs Explorer application. 
 https://github.com/CasperLabs/CasperLabs/releases
 
-The CasperLabs Explorer takes one to the GUI to setup keys, obtain muneration, run transactions https://explorer.casperlabs.io/
+The [CasperLabs Explorer](https://explorer.casperlabs.io/) takes one to the GUI to setup keys, obtain muneration, run transactions 
 
 ## dApp Developers
 Developers (Developer Journey)  want to:
