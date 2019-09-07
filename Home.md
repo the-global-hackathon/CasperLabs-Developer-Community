@@ -2,15 +2,15 @@
 
 This document provides information about how you can get going with the CasperLabs Community Engagement Program.  
 
-So far the development has been through internal resources and we are now at a stage of actively engaging with the Casperlabs Community Members (CCM) or CLarity Member (CM); adding features, improving functionality, developing dApps, fixing security holes and bugs, and contributing your insights and feedback to advance the evolution of our CasperLabs project.	
+So far the development has been through internal resources and we are now at a stage of actively engaging with the Casperlabs Community Members (CCM) also known as CLarity Member (CM); adding features, improving functionality, developing dApps, fixing security holes and bugs, and contributing your insights and feedback to advance the evolution of our CasperLabs project.	
 
 ## Current Developments
 CasperLabs has developed a fully decentralized, sharded and scalable next-generation blockchain, implementing Correct-by-construction (CBC) Casper proof-of-stake protocol.
 
-*** Devnet **(Public Dev Net) 
+** Devnet **(Public Dev Net) 
 We recently launched Devnet, our Public Dev Net where Developers can run nodes and connect to a public bootstrap node.
  
-*** Testnet **(Public Test Net) 
+** Testnet **(Public Test Net) 
 We are also well on schedule for November 2019 to launch Testnet;  the feature complete, decentralized Public Test Net.
 
 Note: CasperLabs does not yet have a bounty program but may consider one after launch of Testnet.
@@ -34,7 +34,7 @@ The information provided herein is intended for CasperLabs Community members as 
 # Getting Started
 The open-source CasperLabs project is building a decentralized, economic, censorship-resistant, public computer infrastructure and blockchain. It hosts and execute programs popularly referred to as “smart contracts”. It is trustworthy, scalable, concurrent, with proof-of-stake consensus and content delivery. See our Technical Specification https://techspec.casperlabs.io/  (in process) to understand why. 
  
-## Validators/Note Operators (Investors)
+## Validators/Node Operators (Investors)
 With this documentation you will gain insight and understanding about what CasperLabs is building
 Learn how to operate a validator node or stake the network and understand economics behind it
 Join a community of like-minded believers
