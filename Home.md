@@ -65,6 +65,7 @@ Developers (Developer Journey)  want to:
  * JavaScript and or Python
 
 **Reference Implementation:**
+
 The following set of documentation is presented in order and provides instructions on Linux setting up the CasperLabs implementation locally, setting up Nodes, and building, testing, and executing Smart contracts to address your use case.
 
 Installing the CasperLabs Node
