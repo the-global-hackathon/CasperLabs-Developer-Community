@@ -1,22 +1,13 @@
 # Welcome to the CasperLabs wiki!
 
 This document provides information about how you can participate with our CasperLabs Community Engagement Program.
-So far the development has been advancing with our internal resources and we are now at a stage of actively engaging our CasperLabs Community Members (CCM), also known as a CLarity Member (CM), adding features, improving functionality, developing dApps, fixing security holes and bugs, and contributing insights and feedback to advance the evolution of CasperLabs solution.
-
+So far the development has been advancing with our internal resources and we are now at a stage of actively engaging our CasperLabs Community Members (CCM), also known as a CLarity Member (CM), adding features, improving functionality, developing dApps, fixing security holes and bugs, and contributing insights and feedback to advance the evolution of CasperLabs open source blockchain solution.
 
 ## Current Developments
 
 CasperLabs has developed a fully decentralized, sharded and scalable next-generation blockchain, implementing Correct-by-construction (CBC) Casper proof-of-stake protocol.
 
-The open-source CasperLabs project is building a decentralized, economic, censorship-resistant, public computer infrastructure and blockchain especially designed for hosting and executing programs popularly referred to as “smart contracts” ensuring a trustworthy, scalable, concurrent, proof-of-stake consensus and content delivery model. 
-
-* Powered by the first implementation of Vlad Zamfir’s CBC Casper proof-of-stake protocol, CasperLabs removes barriers that prevent mainstream blockchain adoption <!--example explanations-->, rendering it more efficient by optimizing resources to put more processing power toward actual transactions while maintaining decentralization. 
-
-* Scalable and flexible for transactions requiring different speed, maintain our decentralization and open source ethos 
-
-* Security measures ensure  each transaction and computation is safeguarded.
-
-_See our_ [Technical Specification]( https://techspec.casperlabs.io/) to understand how.
+The CasperLabs project is building a decentralized, economic, censorship-resistant, public computer infrastructure and blockchain especially designed for hosting and executing programs popularly referred to as “smart contracts” ensuring a trustworthy, scalable, concurrent, proof-of-stake consensus and content delivery model. 
 
 ### Devnet (Public Dev Net)
 
@@ -37,7 +28,9 @@ Main Net Launch in 2020
 
 ***
 
-The information provided herein is intended for CasperLabs Community members as follows:
+* Powered by the first implementation of Vlad Zamfir’s CBC Casper proof-of-stake protocol, CasperLabs removes barriers that prevent mainstream blockchain adoption <!--example explanations-->, rendering it more efficient by optimizing resources to put more processing power toward actual transactions while remaining decentralized, secure, and open source. 
+
+_See our_ [Technical Specification]( https://techspec.casperlabs.io/) to understand how and get started with our resources here with information provided for CasperLabs Community members as follows:
 
 - **Validators / Node Operators** (Investors) are members of our Community who validate transactions on our platform
 
@@ -153,8 +146,6 @@ Currently we are creating tools to build and run execution-engine binaries on a 
 If you find any issues, please [file an issue](https://github.com/CasperLabs/CasperLabs/issues/new):
 
 You can also find support and resources for help as needed:
-
-
 
 # Resources
 
