@@ -1,6 +1,6 @@
 # Welcome to the CasperLabs wiki!
 
-This document provides information about how you can get going with the CasperLabs Community Engagement Program.
+This document provides information about how you can get started with the CasperLabs Community Engagement Program.
 
 So far the development has been through internal resources and we are now at a stage of actively engaging with the CasperLabs Community Members (CCM) also known as CLarity Member (CM); adding features, improving functionality, developing dApps, fixing security holes and bugs, and contributing your insights and feedback to advance the evolution of our CasperLabs project.
 
@@ -26,14 +26,18 @@ Main Net Launch in 2020
 
 The information provided herein is intended for CasperLabs Community members as follows:
 
-- Validators / Node Operators (Investors) are members of our community who validate transactions on our platform
-- dApp Developers (Developers) are members of our Community who build Apps using our CasperLabs features. You can install our environment locally, create and test Smart contracts with our Smart Contracts and Test Libraries and use these libraries to build your own applications,
-- Freelance Developers are members of our CasperLabs Community who are developers and engineers interested in contributing to our CasperLabs core capabilities,
-- General Blockchain Enthusiasts members of the CasperLabs Community who support this technology and are interested in learning more about CasperLabs progress on our roadmap,
+- **Validators / Node Operators** (Investors) are members of our Community who validate transactions on our platform
+- **dApp Developers** (Developers) are members of our Community who build Apps using our CasperLabs features. You can install our environment locally, create and test Smart contracts with our Smart Contracts and Test Libraries and use these libraries to build your own applications,
+- **Freelance Developers** are members of our CasperLabs Community who are developers and engineers interested in contributing to our CasperLabs core capabilities,
+- **General Blockchain Enthusiasts** are members of the CasperLabs Community who support blockchain technology and are interested in learning more about CasperLabs progress in our roadmap,
 
 # Getting Started
 
-The open-source CasperLabs project is building a decentralized, economic, censorship-resistant, public computer infrastructure and blockchain. It hosts and execute programs popularly referred to as “smart contracts”. It is trustworthy, scalable, concurrent, with proof-of-stake consensus and content delivery. See our [Technical Specification]( https://techspec.casperlabs.io/) to understand why.
+The open-source CasperLabs project is building a decentralized, economic, censorship-resistant, public computer infrastructure and blockchain. It hosts and execute programs popularly referred to as “smart contracts”. It is trustworthy, scalable, concurrent, with proof-of-stake consensus and content delivery. Powered by the first implementation of Vlad Zamfir’s CBC Casper proof-of-stake protocol, CasperLabs removes barriers that prevent mainstream blockchain adoption.
+
+More efficient, optimizing resources to put more processing power toward actual transactions — all while maintaining decentralization. Built for flexibility since not all transactions require the same speed, enabling customization to serve specific market needs big or small.
+
+Constructed with security mechanisms in place to punish bad actors, verifying and safeguarding every transaction and computation in ways today’s businesses expect. At every scale. Every time. _See our_ [Technical Specification]( https://techspec.casperlabs.io/) to understand why.
 
 ## Validators/Node Operators (Investors)
 
