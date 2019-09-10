@@ -19,16 +19,16 @@ We are also well on schedule for November 2019 to launch Testnet; the feature co
 
 Note: CasperLabs does not as of yet have a bounty program but may consider one after launch of Testnet.
 
-## Future Developments
+## Roadmap
 
 Main Net Launch in 2020
 
 
 # Participating in the CasperLabs Community
 
-Powered by the first implementation of Vlad Zamfir’s CBC Casper proof-of-stake protocol, CasperLabs removes barriers that prevent mainstream blockchain adoption <!--example explanations-->, rendering it more efficient by optimizing resources to put more processing power toward actual transactions while remaining decentralized, secure, and open source. 
+Powered by the first implementation of Vlad Zamfir’s CBC Casper proof-of-stake protocol, more efficient by optimizing resources to put more processing power toward actual transactions. CasperLabs removes barriers that prevent mainstream blockchain adoption being open source with while ensuring completely decentralized with highest security. 
 
-_See our_ [Technical Specification]( https://techspec.casperlabs.io/) to understand how and get started with our resources herein with information provided for CasperLabs Community members as follows:
+_See our_ [Technical Specification]( https://techspec.casperlabs.io/) to understand how, and get started with our resources herein with information provided for CasperLabs Community members as follows:
 
 - **Validators / Node Operators** (Investors) are members of our Community who validate transactions on our platform
 
@@ -36,7 +36,7 @@ _See our_ [Technical Specification]( https://techspec.casperlabs.io/) to underst
 
 - **Freelance Developer Community** are members of our CasperLabs Community who are developers and engineers interested in contributing to our CasperLabs core capabilities,
 
-- **General Blockchain Enthusiasts** are members of the CasperLabs Community who support blockchain technology and are interested in learning more about CasperLabs progress in our roadmap,
+- **General Blockchain Enthusiasts** are members of the CasperLabs Community who support blockchain technology and are interested in learning more about CasperLabs progress and impact on the world of blockchain technology,
 
 
 # Get Started
@@ -56,7 +56,7 @@ _See our_ [Technical Specification]( https://techspec.casperlabs.io/) to underst
 
 **Resources**
 
-- This link for the [CasperLabs Explorer](https://explorer.casperlabs.io/) takes you to the GUI to setup keys, obtain muneration, and run transactions.
+- This link for the [CasperLabs Explorer](https://explorer.casperlabs.io/) takes you to the GUI to setup keys, obtain remuneration, and run transactions.
 
 - [CasperLabs Release Notes]( https://github.com/CasperLabs/CasperLabs/releases). See what is currently available in CasperLabs most current versions and get started with CasperLabs Explorer application.
 
@@ -70,6 +70,7 @@ Developers (Developer Journey) want to:
 - How to build and operate applications on the platform
 - How to set up the CasperLabs environment locally
 - How to create and test Smart Contracts with our Libraries
+<!--Future Documentation on contracts to come-->
 
 **Pre-requisites:**
 
@@ -81,6 +82,7 @@ Developers (Developer Journey) want to:
 
 The following set of documentation is presented in order and provides instructions on Linux setting up the CasperLabs implementation locally, setting up Nodes, and building, testing, and executing Smart contracts to address your use case.
 
+- 
 - [Installing the CasperLabs Node](https://github.com/CasperLabs/CasperLabs/blob/dev/docs/INSTALL.md)
 - [Building the CasperLabs Node](https://github.com/CasperLabs/CasperLabs/blob/dev/docs/BUILD.md)
 - [Creating Keys](https://github.com/CasperLabs/CasperLabs/blob/dev/docs/KEYS.md)
@@ -90,7 +92,6 @@ The following set of documentation is presented in order and provides instructio
 - [Contributing](https://github.com/CasperLabs/CasperLabs/blob/dev/CONTRIBUTING.md)
 - [Useful Diagrams](https://github.com/CasperLabs/CasperLabs/blob/dev/docs/DIAGRAMS.md)
 
-<!--Future Documentation on contracts to come-->
 
 ## Freelance Developer Community
 
