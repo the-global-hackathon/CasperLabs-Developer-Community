@@ -26,9 +26,7 @@ Main Net Launch in 2020
 
 # Participating in the CasperLabs Community
 
-***
-
-* Powered by the first implementation of Vlad Zamfir’s CBC Casper proof-of-stake protocol, CasperLabs removes barriers that prevent mainstream blockchain adoption <!--example explanations-->, rendering it more efficient by optimizing resources to put more processing power toward actual transactions while remaining decentralized, secure, and open source. 
+Powered by the first implementation of Vlad Zamfir’s CBC Casper proof-of-stake protocol, CasperLabs removes barriers that prevent mainstream blockchain adoption <!--example explanations-->, rendering it more efficient by optimizing resources to put more processing power toward actual transactions while remaining decentralized, secure, and open source. 
 
 _See our_ [Technical Specification]( https://techspec.casperlabs.io/) to understand how and get started with our resources herein with information provided for CasperLabs Community members as follows:
 
@@ -42,9 +40,6 @@ _See our_ [Technical Specification]( https://techspec.casperlabs.io/) to underst
 
 
 # Get Started
-
-***
-
 
 
 ## Validators/Node Operators (Investors)
@@ -64,7 +59,6 @@ _See our_ [Technical Specification]( https://techspec.casperlabs.io/) to underst
 - This link for the [CasperLabs Explorer](https://explorer.casperlabs.io/) takes you to the GUI to setup keys, obtain muneration, and run transactions.
 
 - [CasperLabs Release Notes]( https://github.com/CasperLabs/CasperLabs/releases). See what is currently available in CasperLabs most current versions and get started with CasperLabs Explorer application.
-
 
 
 ## dApp Developers
@@ -122,11 +116,13 @@ General Enthusiasts of Blockchain technology are members of the CasperLabs Commu
 - Learn about the technical resources like specifications, mathematical papers, etc. (*see here below*)
 - Keep updated about development status, use cases, and dApps <!--(subscribe)-->
 
-### Math Proof
+**Resources**
+
+* **Math Proof**
 
 [Introducing the "minimal" CBC Casper Consensus Protocols.](https://github.com/cbc-casper/cbc-casper-paper/blob/master/cbc-casper-paper-draft.pdf)
 
-### Specification
+* **Specification**
 
 [Current Technical Specification](https://techspec.casperlabs.io/) 
 
@@ -147,7 +143,7 @@ If you find any issues, please [file an issue](https://github.com/CasperLabs/Cas
 
 You can also find support and resources for help as needed:
 
-# Resources
+# References
 
 - [CBC CasperLabs Resource List](https://github.com/ethereum/cbc-casper/wiki/Resource-List) 
 - [About CBC Casper proof-of-stake protocol](https://blockgeeks.com/guides/ethereum-casper/) 
