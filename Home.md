@@ -1,13 +1,13 @@
 # Welcome to the CasperLabs wiki!
 
 This document provides information about how you can participate with our CasperLabs Community Engagement Program.
-So far the development has been advancing with our internal resources and we are now at a stage of actively engaging our CasperLabs Community Members (CCM), also known as a CLarity Member (CM), adding features, improving functionality, developing dApps, fixing security holes and bugs, and contributing insights and feedback to advance the evolution of CasperLabs open source blockchain solution.
+So far the development has been progressing with our internal resources and we are now at a stage of actively engaging our CasperLabs Community Members (CCM), also known as a CLarity Member (CM): adding features, improving functionality, developing dApps, fixing security holes and bugs, and contributing insights and feedback to advance the evolution of CasperLabs open source blockchain solution.
 
 ## Current Developments
 
 CasperLabs has developed a fully decentralized, sharded and scalable next-generation blockchain, implementing Correct-by-construction (CBC) Casper proof-of-stake protocol.
 
-The CasperLabs project is building a decentralized, economic, censorship-resistant, public computer infrastructure and blockchain especially designed for hosting and executing programs popularly referred to as “smart contracts” ensuring a trustworthy, scalable, concurrent, proof-of-stake consensus and content delivery model. 
+The CasperLabs project is a decentralized, economic, censorship-resistant, public computer infrastructure and blockchain especially designed for hosting and executing programs popularly referred to as “smart contracts” ensuring a trustworthy, scalable, concurrent, proof-of-stake consensus and content delivery model. 
 
 ### Devnet (Public Dev Net)
 
@@ -17,7 +17,7 @@ We recently launched Devnet, our Public Dev Net where Developers can run nodes a
 
 We are also well on schedule for November 2019 to launch Testnet; the feature complete, decentralized Public Test Net.
 
-Note: CasperLabs does not yet have a bounty program but may consider one after launch of Testnet.
+Note: CasperLabs does not as of yet have a bounty program but may consider one after launch of Testnet.
 
 ## Future Developments
 
@@ -30,13 +30,13 @@ Main Net Launch in 2020
 
 * Powered by the first implementation of Vlad Zamfir’s CBC Casper proof-of-stake protocol, CasperLabs removes barriers that prevent mainstream blockchain adoption <!--example explanations-->, rendering it more efficient by optimizing resources to put more processing power toward actual transactions while remaining decentralized, secure, and open source. 
 
-_See our_ [Technical Specification]( https://techspec.casperlabs.io/) to understand how and get started with our resources here with information provided for CasperLabs Community members as follows:
+_See our_ [Technical Specification]( https://techspec.casperlabs.io/) to understand how and get started with our resources herein with information provided for CasperLabs Community members as follows:
 
 - **Validators / Node Operators** (Investors) are members of our Community who validate transactions on our platform
 
 - **dApp Developers** (Developers) are members of our Community who build Apps using our CasperLabs features. You can install our environment locally, create and test Smart contracts with our Smart Contracts and Test Libraries and use these libraries to build your own applications,
 
-- **Freelance Developers** are members of our CasperLabs Community who are developers and engineers interested in contributing to our CasperLabs core capabilities,
+- **Freelance Developer Community** are members of our CasperLabs Community who are developers and engineers interested in contributing to our CasperLabs core capabilities,
 
 - **General Blockchain Enthusiasts** are members of the CasperLabs Community who support blockchain technology and are interested in learning more about CasperLabs progress in our roadmap,
 
@@ -98,7 +98,7 @@ The following set of documentation is presented in order and provides instructio
 
 <!--Future Documentation on contracts to come-->
 
-## Freelance Developers
+## Freelance Developer Community
 
 Join a community of CasperLabs freelance developers to:
 
@@ -114,7 +114,7 @@ Join a community of CasperLabs freelance developers to:
 - Knowledge of engineering
 - Command of Rust, Rust Cargo, JavaScript and/or Python
 
-## Blockchain Enthusiasts
+## General Blockchain Enthusiasts
 
 General Enthusiasts of Blockchain technology are members of the CasperLabs Community who are curious to learn more about CasperLabs to:
 
@@ -139,7 +139,7 @@ General Enthusiasts of Blockchain technology are members of the CasperLabs Commu
 
 # Known Issues
 
-Currently we are creating tools to build and run execution-engine binaries on a Mac. We recommend using docker for now or run the implementation on Linux.
+Currently we are creating tools to build and run execution-engine binaries on a Mac. We recommend using docker for now or run your implementation on Linux.
 
 # Reporting Issues
 
