@@ -155,8 +155,8 @@ You can also find support and resources for help as needed:
 
 # References
 
-<- !--[CBC CasperLabs Resource List](https://github.com/ethereum/cbc-casper/wiki/Resource-List)--> 
-<- !--[About CBC Casper proof-of-stake protocol](https://blockgeeks.com/guides/ethereum-casper/)--> 
 - [About Rust](rust-lang.org)
 - [Rust API documentation for the Rust std crate](https://github.com/CasperLabs/CasperLabs/blob/dev/execution-engine/contract-ffi/src/contract_api/mod.rs)
 <- !--[Learn about Rust](https://medium.com/learning-rust)-->
+<- !--[CBC CasperLabs Resource List](https://github.com/ethereum/cbc-casper/wiki/Resource-List)--> 
+<- !--[About CBC Casper proof-of-stake protocol](https://blockgeeks.com/guides/ethereum-casper/)--> 
