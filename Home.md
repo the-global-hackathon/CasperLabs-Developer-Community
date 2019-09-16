@@ -8,12 +8,6 @@ So far the development of CasperLabs platform has been progressing with our inte
 
 CasperLabs has developed a fully decentralized, sharded, and scalable next-generation blockchain platform, implementing the Correct-by-construction (CBC) - Casper proof-of-stake protocol. This public computer infrastructure and blockchain is especially designed for hosting and executing programs, popularly referred to as “smart contracts”, to ensure a trustworthy, scalable, concurrent, proof-of-stake consensus and content delivery model. 
 
-<!--<!--decentralized,--> 
-
-- <!--economic,--> 
-- <!--censorship-resistant,-->
-- <!--secure/-->
-
 ### Devnet (Public Dev Net)
 
 We recently launched Devnet, our Public Dev Net where Developers can run nodes and connect to a public bootstrap node.
