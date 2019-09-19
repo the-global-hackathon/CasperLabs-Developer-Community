@@ -6,7 +6,7 @@ So far the development of CasperLabs platform has been progressing with our inte
 
 ## Current Developments
 
-CasperLabs has developed a fully decentralized, sharded, and scalable next-generation blockchain platform, implementing the Correct-by-Construction  Casper \(CBC Casper\) Proof-of-Stake consensus protocol described by Vlad Zamfir, Ethereum Foundation Researcher and Lead CBC-Casper Architect for CasperLabs ([See](https://github.com/cbc-casper/cbc-casper-paper).
+CasperLabs has developed a fully decentralized, sharded, and scalable next-generation blockchain platform, implementing the Correct-by-Construction  Casper \(CBC Casper\) Proof-of-Stake consensus protocol described by Vlad Zamfir, Ethereum Foundation Researcher and Lead CBC-Casper Architect for CasperLabs ([See](https://github.com/cbc-casper/cbc-casper-paper)).
  
 This public computer infrastructure and blockchain is especially designed for hosting and executing programs --smart contracts -- to ensure a trustworthy, scalable, concurrent, proof-of-stake consensus and content delivery model. 
 
