@@ -54,7 +54,7 @@ _See our_ [Technical Specification]( https://techspec.casperlabs.io/) to underst
 
 **Resources**
 
-- This link for the [CasperLabs Explorer](https://explorer.casperlabs.io/) takes you to the UI where you can setup security keys, obtain remuneration, and run transactions.
+- [CasperLabs Explorer](https://explorer.casperlabs.io/) -- takes you to the UI where you can setup security keys, obtain remuneration, and run transactions.
 - [CasperLabs Release Notes]( https://github.com/CasperLabs/CasperLabs/releases). See what is currently available in CasperLabs most current versions and get started with CasperLabs Explorer application.
 
 ## dApp Developers
@@ -79,14 +79,7 @@ The following set of documentation is presented in order and provides instructio
 - CasperLabs - Smart contract template repository (Debian, Ubuntu, Mint, macOS)
   - Demo -- How to build a local environment https://youtu.be/P8SC_upCqAg
   - Documentated Instructions -- How to build a local environment [Casperlabs Smart Contract template](https://github.com/zie1ony/casperlabs-smart-contract-template)
-- [Installing the CasperLabs Node](https://github.com/CasperLabs/CasperLabs/blob/dev/docs/INSTALL.md)
-- [Building the CasperLabs Node](https://github.com/CasperLabs/CasperLabs/blob/dev/docs/BUILD.md)
-- [Creating Keys](https://github.com/CasperLabs/CasperLabs/blob/dev/docs/KEYS.md)
-- [Running the CasperLabs Node](https://github.com/CasperLabs/CasperLabs/blob/dev/docs/NODE.md)
-- [Deploying Contracts](https://github.com/CasperLabs/CasperLabs/blob/dev/docs/CONTRACTS.md)
-- [Querying](https://github.com/CasperLabs/CasperLabs/blob/dev/docs/QUERYING.md)
-- [CasperLabs DevNet tools](http://devnet-graphql.casperlabs.io:40403/graphql) 
-- [Contributing](https://github.com/CasperLabs/CasperLabs/blob/dev/CONTRIBUTING.md)
+- [CasperLabs DevNet tools](http://devnet-graphql.casperlabs.io:40403/graphql) (GraphQL)
 - [Useful Diagrams](https://github.com/CasperLabs/CasperLabs/blob/dev/docs/DIAGRAMS.md)
 
 ## Freelance Developer Community
@@ -107,33 +100,9 @@ Join a community of CasperLabs freelance developers to:
 
 **Resources**
 
-The following set of documentation is presented in order and provides instructions on Linux setting up the CasperLabs implementation locally, setting up Nodes, and building, testing, and executing Smart contracts to address your use case.
+The following link provides a set of documentation is presented in order and provides instructions on Linux setting up the CasperLabs implementation locally, setting up Nodes, and building, testing, and executing Smart contracts to address your use case.
 
-Setting Up your Development Environment
-
-- [Installing the CasperLabs Node](https://github.com/CasperLabs/CasperLabs/blob/dev/docs/INSTALL.md) ()
-
-- [Building the CasperLabs Node](https://github.com/CasperLabs/CasperLabs/blob/dev/docs/BUILD.md)
-
-- [Creating Keys](https://github.com/CasperLabs/CasperLabs/blob/dev/docs/KEYS.md)
-
-- [Running the CasperLabs Node](https://github.com/CasperLabs/CasperLabs/blob/dev/docs/NODE.md)
-
-- [Deploying Contracts](https://github.com/CasperLabs/CasperLabs/blob/dev/docs/CONTRACTS.md)
-
-- [Querying](https://github.com/CasperLabs/CasperLabs/blob/dev/docs/QUERYING.md)
-
-- [CasperLabs DevNet tools](http://devnet-graphql.casperlabs.io:40403/graphql) 
-
-- [Contributing to CasperLabs](https://github.com/CasperLabs/CasperLabs/blob/dev/CONTRIBUTING.md)
-
-  <!--Coding Standards, Signing Commits, Code Review Process, Github Workflow, Unit Testing (Drone Cl)-->
-
-- [CasperLabs Smart Contract Examples](https://github.com/CasperLabs/contract-examples/tree/master)
-
-- [Useful Diagrams](https://github.com/CasperLabs/CasperLabs/blob/dev/docs/DIAGRAMS.md)
-
-
+[Resources](https://github.com/CasperLabs/CasperLabs/wiki/CasperLabs-Resources) 
 
 ## General Blockchain Enthusiasts
 
@@ -182,9 +151,10 @@ If you find any issues, please [file an issue](https://github.com/CasperLabs/Cas
 You can also find support and resources for help as needed: [Getting Help](#Getting Help)
 
 # References
+
 - [About Rust](rust-lang.org)
 - [Rust API documentation for the Rust std crate](https://github.com/CasperLabs/CasperLabs/blob/dev/execution-engine/contract-ffi/src/contract_api/mod.rs)
 - <!--[- Learn about Rust](https://medium.com/learning-rust)-->
   <!--Doc.rust-lang.org std - [Rust API documentation for the Rust std crate](https://github.com/CasperLabs/CasperLabs/blob/dev/execution-engine/contract-ffi/src/contract_api/mod.rs).--> 
-<!--[- CBC CasperLabs Resource List](https://github.com/ethereum/cbc-casper/wiki/Resource-List)--> 
-<!--[- About CBC Casper proof-of-stake protocol](https://blockgeeks.com/guides/ethereum-casper/)--> 
+  <!--[- CBC CasperLabs Resource List](https://github.com/ethereum/cbc-casper/wiki/Resource-List)--> 
+  <!--[- About CBC Casper proof-of-stake protocol](https://blockgeeks.com/guides/ethereum-casper/)--> 
