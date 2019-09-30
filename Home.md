@@ -6,7 +6,15 @@ So far the development of CasperLabs solution has been progressing with our inte
 
 ## Current Developments
 
-CasperLabs has developed a fully decentralized, sharded, and scalable next-generation blockchain solution, implementing the Correct by construction  Casper (CBC Casper ) proof-of-stake protocol. This public computer infrastructure and blockchain is especially designed for hosting and executing programs referred to as “smart contracts”, to ensure a trustworthy, scalable, concurrent, proof-of-stake consensus and content delivery model. 
+We present a new permissionless, decentralized and Turing-complete smart contract and cryptocurrency platform, backed by a proof-of-stake (PoS) consensus algorithm that is based on Vlad Zamfir's correct-by-construction (CBC) Casper work, with unique features:
+* A pure proof-of-stake system with an on-chain contract managing deposits and rewards.
+* Provably safe and live under partial synchrony, even under a 49% attack.
+* Client-side configurable fault-tolerance thresholds: users can choose higher safety at the cost of higher latency to transaction finalization.
+* Smart contracts that can be written in any language compiling to WebAssembly.
+* Stable and predictable economics: reliable costs for users and consistent returns for validators.
+* Low overhead because orphaned blocks' transactions are still included when possible.
+* On-chain object-capability model for secure permission handling in smart contracts.
+* Flexible account permissions model allowing for lost key recovery. 
 
 ### Devnet (Public Dev Net)
 
@@ -24,10 +32,20 @@ Main Net Launch in 2020
 
 # Participating in the CasperLabs Community
 
-Powered by the first implementation of Vlad Zamfir’s CBC-Casper proof-of-stake (PoS) protocol, a standard that is most efficient for blockchain optimizing resources to maximize processing power toward actual transactions, CasperLabs removes barriers that prevent mainstream blockchain adoption by being completely open source, decentralized, censorship-resistant, and highly secure. 
+The consensus protocol is built on Vlad Zamfir's correct-by-construction (CBC) Casper work. Our design is a particular protocol in the CBC Casper family which is provably safe and live under partial synchrony without an in-protocol fault tolerance threshold. The computation model allows for efficient detection of when contract executions can be run in parallel, and 
+* block message format allows "merging" forks in the chain, thus the platform avoids orphaning blocks unnecessarily. 
+* Rust is supported as the primary programming language for smart contracts because of its good support for compilation to wasm 
+* libraries facilitating contract development in other programming language having wasm as a compile target
+
+Other features of the execution engine include: 
+* an account permissions model allowing for lost key recovery, 
+* a permissions model to securely share state between accounts and/or contracts (without the need for expensive cryptographic checks). 
+
+* the economics of our proof-of-stake implementation and our token policies are also provided
 
 _See our_ [Technical Specification]( https://techspec.casperlabs.io/) to understand how, and get started with the information herein provided for CasperLabs Community members as follows:
 
+# Community Members
 - **Validators / Node Operators** (Investors) are members of our Community who validate transactions on our platform
 
 - **dApp Developers** (Developers) are members of our Community who build Apps using our CasperLabs features. You can install our environment locally, create and test Smart contracts with our Smart Contracts and Test Libraries, and use these libraries to build your own applications,
