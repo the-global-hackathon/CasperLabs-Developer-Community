@@ -95,7 +95,7 @@ _See our_ [Technical Specification]( https://techspec.casperlabs.io/) to underst
 The following set of documentation is presented in order and provides instructions on Linux and OSx for setting up the CasperLabs environment locally, setting up Nodes, and building, testing, and executing Smart contracts to address your use case including:
 
 - CasperLabs - Smart contract template repository (Debian, Ubuntu, Mint, macOS)
-  - Demo -- How to build a local environment https://youtu.be/P8SC_upCqAg
+  - Demo -- [How to build a local environment](https://youtu.be/P8SC_upCqAg)
   - Documentated Instructions -- How to build a local environment [Casperlabs Smart Contract template](https://github.com/zie1ony/casperlabs-smart-contract-template)
 - [CasperLabs DevNet tools](http://devnet-graphql.casperlabs.io:40403/graphql) (GraphQL)
 - [Useful Diagrams](https://github.com/CasperLabs/CasperLabs/blob/dev/docs/DIAGRAMS.md)
