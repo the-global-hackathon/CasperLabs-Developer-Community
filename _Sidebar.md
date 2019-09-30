@@ -1,5 +1,6 @@
-# * CasperLabs Home
-* # Hackathon
-* # Resources 
-* * ## dAPP developer
-* * ## Developer 
+* CasperLabs Home
+* CL Code of Conduct
+* Hackathon
+* Resources 
+* * dAPP developer
+* * Developer 
