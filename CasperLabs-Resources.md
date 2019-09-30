@@ -1,1 +1,44 @@
 # under construction
+
+- [Installing the CasperLabs Node](https://github.com/CasperLabs/CasperLabs/blob/dev/docs/INSTALL.md)
+- [Building the CasperLabs Node](https://github.com/CasperLabs/CasperLabs/blob/dev/docs/BUILD.md)
+- Key Management
+- [Creating Keys](https://github.com/CasperLabs/CasperLabs/blob/dev/docs/KEYS.md)
+  - node operator
+  - validator
+  - DApp Developer
+  - 
+    - Generating Node Keys and  Validator Keys 
+      (Docker image is recommended)
+      -  [Docker image](https://github.com/CasperLabs/CasperLabs/blob/dev/hack/key-management/Dockerfile)
+      - [OpenSSL and keccak-256sum](https://github.com/CasperLabs/CasperLabs/blob/dev/docs/KEYS.md#using-openssl-and-keccak-256sum)
+    - Run a node
+    - Validate 
+- [Running the CasperLabs Node](https://github.com/CasperLabs/CasperLabs/blob/dev/docs/NODE.md)
+- [Deploying Contracts](https://github.com/CasperLabs/CasperLabs/blob/dev/docs/CONTRACTS.md)
+- [Querying](https://github.com/CasperLabs/CasperLabs/blob/dev/docs/QUERYING.md)
+  - gRPC
+  - [Scala client](https://repo.casperlabs.io/casperlabs/repo/)
+    - State Query API
+    - key-value store - store any data which can be represented in the [CasperLabs ABI](https://techspec.casperlabs.io/technical-details/block-storage/global-state#abi) (except accounts). An account is a cryptographically-secured entry-point into the system. All changes to the global state must be tied to an account.
+  - [Docker Hub](https://hub.docker.com/r/casperlabs/client)
+  - [Local Node Build](https://github.com/CasperLabs/CasperLabs/blob/dev/docs/BUILD.md)
+    - Prerequisites
+      - OpenJDK (v11)
+      - protoc (v  3.6.1 or greater)
+      - [sbt](https://www.scala-sbt.org/download.html) scala build tool
+      - Rustup 
+  - GraphQL
+- [CasperLabs DevNet tools](http://devnet-graphql.casperlabs.io:40403/graphql) 
+- [Contributing to CasperLabs ](https://github.com/CasperLabs/CasperLabs/blob/dev/CONTRIBUTING.md)
+  - [Coding Standards](https://casperlabs.atlassian.net/wiki/spaces/EN/pages/16842753/Coding+Standards)
+    - [Scala](https://casperlabs.atlassian.net/wiki/spaces/EN/pages/16842753/Coding+Standards#CodingStandards-Scala)
+    - [Rust](https://casperlabs.atlassian.net/wiki/spaces/EN/pages/16842753/Coding+Standards#CodingStandards-Rust)
+  - [Signing Commits](https://casperlabs.atlassian.net/wiki/spaces/EN/pages/4390963/Signing+Commits)
+  - [Code Review Process](https://casperlabs.atlassian.net/wiki/spaces/EN/pages/4161628/Code+Review+Process)
+    - Submitting code
+    - Reviewing Code
+  - [Github Workflow](https://casperlabs.atlassian.net/wiki/spaces/EN/pages/4128974/Github+Forking+Workflows)
+  - Testing
+  - [Setting Up Your Development Environment](https://github.com/CasperLabs/CasperLabs/blob/master/README.md)
+- Useful Diagrams
