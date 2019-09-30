@@ -32,7 +32,8 @@ Main Net Launch in 2020
 
 # Participating in the CasperLabs Community
 
-The consensus protocol is built on Vlad Zamfir's correct-by-construction (CBC) Casper work. Our design is a particular protocol in the CBC Casper family which is provably safe and live under partial synchrony without an in-protocol fault tolerance threshold. The computation model allows for efficient detection of when contract executions can be run in parallel, and 
+The consensus protocol is built on Vlad Zamfir's correct-by-construction (CBC) Casper work. Our design is a particular protocol in the CBC Casper family which is provably safe and live under partial synchrony without an in-protocol fault tolerance threshold. The computation model allows for efficient detection of when contract executions can be run in parallel. The technical specification presents details on this design and how you can implement it, including but not limited to:
+ 
 * block message format allows "merging" forks in the chain, thus the platform avoids orphaning blocks unnecessarily. 
 * Rust is supported as the primary programming language for smart contracts because of its good support for compilation to wasm 
 * libraries facilitating contract development in other programming language having wasm as a compile target
