@@ -1,4 +1,4 @@
-# * Home CasperLabs 
+# * CasperLabs Home
 * # Hackathon
 * # Resources 
 * * ## dAPP developer
