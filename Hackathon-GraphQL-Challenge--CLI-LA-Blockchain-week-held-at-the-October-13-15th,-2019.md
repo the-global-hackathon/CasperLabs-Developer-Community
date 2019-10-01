@@ -1,6 +1,6 @@
-### About the Graph QL Interface Challenge 
+## About the Graph QL Interface Challenge 
 
-CasperLabs is sponsoring the Graph QL Interface Challenge at LA Blockchain week as part of the CIS Global Hackathon!
+CasperLabs sponsoring the Graph QL Interface Challenge at LA Blockchain week as part of the CIS Global Hackathon! Come and join us.
 
 This document provides an overview of this event with the resources for you to prepare and get started with your projects.
 
@@ -43,7 +43,8 @@ Register for the CasperLabs GraphQL Challenge -- Link to the **Eventbrite** page
 - Registrants Data
 - Survey Questions
 
-**To get connected **to the GraphQL Hackathon/Project Join the CasperLabs Discord channel
+### Connect
+**To get connected **to the GraphQL Hackathon/Project Join the CasperLabs Discord channel and work with our Ambassador, Maciej.
 
 - [Discord Channel](https://discordapp.com/channels/615596155992145953/627186448629628959)
 
@@ -74,7 +75,6 @@ Please follow the steps on this list:
 
 - make progress on your projects
 - goal via "a taste" of what it is like to write and execute a smart contract on our platform (**requires participants to be RUST engineers**)
-
 - - https://rustup.rs/)
 
 ## **Resources**
@@ -83,7 +83,7 @@ Please follow the steps on this list:
 
 - Slides of the presentation
 - Use Cases
-- Demo of the GraphQL - by 
+- Demo of the GraphQL - by our CasperLabs Ambassadors @Masciej and @Mehda
 
 ### **Getting Help**
 
