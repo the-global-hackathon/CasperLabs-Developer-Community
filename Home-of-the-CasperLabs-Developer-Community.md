@@ -7,7 +7,7 @@ So far the development of CasperLabs solution has been progressing with our inte
 ## Current Developments
 
 We present a new permissionless, decentralized and Turing-complete smart contract and cryptocurrency platform, backed by a proof-of-stake (PoS) consensus algorithm that is based on Vlad Zamfir's correct-by-construction (CBC) Casper work, with unique features:
-* A pure proof-of-stake system with an on-chain contract managing deposits and rewards.
+* A proof-of-stake system with an on-chain contract managing deposits and rewards.
 * Provably safe and live under partial synchrony, even under a 49% attack.
 * Client-side configurable fault-tolerance thresholds: users can choose higher safety at the cost of higher latency to transaction finalization.
 * Smart contracts that can be written in any language compiling to WebAssembly.
