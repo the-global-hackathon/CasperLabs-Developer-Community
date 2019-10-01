@@ -158,6 +158,7 @@ General Enthusiasts of Blockchain technology are members of the CasperLabs Commu
 - [CasperLabs Community Forum](https://forums.casperlabs.io/) 
 
   Search topics, posts, information from and about our users.
+- 
 
 # Known Issues
 
