@@ -59,7 +59,7 @@ _See our_ [Technical Specification]( https://techspec.casperlabs.io/) to underst
 
 # Getting Started
 
-## Validators/Node Operators (Investors)
+## Validators/Node Operators
 
 - With this documentation you will gain insight and understanding about what CasperLabs is building
 - Learn how to operate a **validator node** or **stake the network**  understanding the economics behind it
