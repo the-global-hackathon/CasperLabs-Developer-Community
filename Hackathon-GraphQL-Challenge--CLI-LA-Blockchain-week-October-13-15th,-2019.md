@@ -34,7 +34,7 @@ LA Blockchain week locations
 
 ### Pre-Registration
 
-**Blog**  https://medium.com/casperlabs
+**[CasperLabs Blog](https://medium.com/casperlabs)**  
 
 ### Registration
 
@@ -44,9 +44,7 @@ Register for the CasperLabs GraphQL Challenge -- Link to the **Eventbrite** page
 - Survey Questions
 
 ### Connect
-**To get connected **to the GraphQL Hackathon/Project Join the CasperLabs Discord channel and work with our Ambassador, Maciej.
-
-- [Discord Channel](https://discordapp.com/channels/615596155992145953/627186448629628959)
+To get connected to the GraphQL Hackathon/Project, Join the [CasperLabs Discord Channel](https://discord.gg/n9bBs8W) and work with our Ambassador, Maciej.
 
 ## Parameters of the GQL Challenge
 
@@ -58,7 +56,7 @@ Register for the CasperLabs GraphQL Challenge -- Link to the **Eventbrite** page
 
   <!--funneling people to the community-->
 
-### **Parameters/Judging Criteria** 
+### **Judging Criteria** 
 
 - for building dApps
 
@@ -69,13 +67,13 @@ Please follow the steps on this list:
 1. Read and Sign the **Casper Code of Conduct**
 2. Get to Know [GraphQL Schema/Types](https://casperlabs.atlassian.net/wiki/spaces/EN/pages/92176385/GraphQL+Schema+Types) 
 3. Download and ReviewCasperLabs Smart Contract Examples](https://github.com/CasperLabs/contract-examples/tree/master)
+
    - Pre-requisite: [rustup](https://rustup.rs/)
 
 **How to Guide**
 
 - make progress on your projects
 - goal via "a taste" of what it is like to write and execute a smart contract on our platform (**requires participants to be RUST engineers**)
-- - https://rustup.rs/)
 
 ## **Resources**
 
@@ -89,12 +87,11 @@ Please follow the steps on this list:
 
 **Chat room**
 
-- Discord Channel
+- [CasperLabs Discord Channel](https://discord.gg/n9bBs8W)
 
 **Logistics**  -- Handouts
 
-WiFi (SSID and password)
-
+- WiFi (SSID and password)
 - event hashtag and URL
 - breakout rooms
 - Dining
