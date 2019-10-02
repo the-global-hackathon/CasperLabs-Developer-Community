@@ -47,7 +47,7 @@ Other features of the execution engine include:
 _See our_ [Technical Specification]( https://techspec.casperlabs.io/) to understand how, and get started with the information herein provided for CasperLabs Community members as follows:
 
 # Community Members
-- **Validators / Node Operators** (Investors) are members of our Community who validate transactions on our platform
+- **Validators / Node Operators** are members of our Community who validate transactions on our platform
 
 - **dApp Developers** (Developers) are members of our Community who build Apps using our CasperLabs features. You can install our environment locally, create and test Smart contracts with our Smart Contracts and Test Libraries, and use these libraries to build your own applications,
 
