@@ -1,20 +1,34 @@
-# Welcome to CasperLabs wiki!
+# Welcome to the CasperLabs wiki!
 
-This document provides information about how you can participate with our CasperLabs Community Engagement Program.
+This document provides information about how you can participate in our CasperLabs Community Engagement Program.
 
-So far the development of CasperLabs solution has been progressing with our internal resources and we are now at a stage of actively engaging our CasperLabs Community Members (CCM), also known as the CLarity Member (CM): adding features, improving functionality, developing dApps, fixing security holes and bugs, and contributing insights and feedback to advance the evolution of CasperLabs platform.
+So far the development of our platform has been progressing with our internal resources and we are now at a stage of actively engaging CasperLabs Community Members (CCM), also known as CLarity Members (CM): adding features, improving functionality, developing dApps, fixing security holes and bugs, and contributing insights and feedback to advance the evolution of the CasperLabs platform.
+
+- [Current Developments](#current-developments)
+- [Roadmap](#roadmap)
+- [Participating in the CasperLabs Community](#participating-in-the-casperlabs-community)
+- [Getting Started](#getting-started)
+  - [Validators / Node Operators](#validators-node-operators)
+  - [dApp Developers](#dapp-developers)
+  - [Freelance Developer Community](#freelance-developer-community)
+  - [General Blockchain Enthusiasts](#general-blockchain-enthusiasts)
+- [Getting Help](#getting-help)
+- [Known Issues](#known-issues)
+- [Reporting Issues](#reporting-issues)
+- [Useful References](#useful-references)
 
 ## Current Developments
 
 We present a new permissionless, decentralized and Turing-complete smart contract and cryptocurrency platform, backed by a proof-of-stake (PoS) consensus algorithm that is based on Vlad Zamfir's correct-by-construction (CBC) Casper work, with unique features:
-* A proof-of-stake system with an on-chain contract managing deposits and rewards.
-* Provably safe and live under partial synchrony, even under a 49% attack.
-* Client-side configurable fault-tolerance thresholds: users can choose higher safety at the cost of higher latency to transaction finalization.
-* Smart contracts that can be written in any language compiling to WebAssembly.
-* Stable and predictable economics: reliable costs for users and consistent returns for validators.
-* Low overhead because orphaned blocks' transactions are still included when possible.
-* On-chain object-capability model for secure permission handling in smart contracts.
-* Flexible account permissions model allowing for lost key recovery. 
+
+- A pure proof-of-stake system with an on-chain contract managing deposits and rewards.
+- Provably safe and live under partial synchrony, even under a 49% attack.
+- Client-side configurable fault-tolerance thresholds: users can choose higher safety at the cost of higher latency to transaction finalization.
+- Smart contracts that can be written in any language compiling to WebAssembly.
+- Stable and predictable economics: reliable costs for users and consistent returns for validators.
+- Low overhead because orphaned blocks' transactions are still included when possible.
+- On-chain object-capability model for secure permission handling in smart contracts.
+- Flexible account permissions model allowing for lost key recovery. 
 
 ### Devnet (Public Dev Net)
 
@@ -32,22 +46,23 @@ Main Net Launch in 2020
 
 # Participating in the CasperLabs Community
 
-The consensus protocol is built on Vlad Zamfir's correct-by-construction (CBC) Casper work. Our design is a particular protocol in the CBC Casper family which is provably safe and live under partial synchrony without an in-protocol fault tolerance threshold. The computation model allows for efficient detection of when contract executions can be run in parallel. The technical specification presents details on this design and how you can implement it, including but not limited to:
- 
-* block message format allows "merging" forks in the chain, thus the platform avoids orphaning blocks unnecessarily. 
-* Rust is supported as the primary programming language for smart contracts because of its good support for compilation to wasm 
-* libraries facilitating contract development in other programming language having wasm as a compile target
+Our design is a particular protocol in the CBC Casper family which is provably safe and live under partial synchrony without an in-protocol fault tolerance threshold. The computation model allows for efficient detection of when contract executions can be run in parallel. The technical specification presents details on this design and how you can implement it, including but not limited to:
+
+- **block message format** allows "merging" forks in the chain, thus the platform avoids orphaning blocks unnecessarily. 
+- **Rust** is supported as the primary programming language for smart contracts because of its good support for compilation to wasm 
+- **libraries** facilitating contract development in other programming language having wasm as a compile target
 
 Other features of the execution engine include: 
-* an account permissions model allowing for lost key recovery, 
-* a permissions model to securely share state between accounts and/or contracts (without the need for expensive cryptographic checks). 
 
-* the economics of our proof-of-stake implementation and our token policies are also provided
+- an account permissions model allowing for lost key recovery, 
+- a permissions model to securely share state between accounts and/or contracts (without the need for expensive cryptographic checks). 
+- the economics of our proof-of-stake implementation and our token policies are also provided
 
 _See our_ [Technical Specification]( https://techspec.casperlabs.io/) to understand how, and get started with the information herein provided for CasperLabs Community members as follows:
 
-# Community Members
-- **Validators / Node Operators** (Investors) are members of our Community who validate transactions on our platform,
+# About Community Members
+
+- **Validators / Node Operators** are members of our Community who validate transactions on our platform
 
 - **dApp Developers** (Developers) are members of our Community who build Apps using our CasperLabs features. You can install our environment locally, create and test Smart contracts with our Smart Contracts and Test Libraries, and use these libraries to build your own applications,
 
@@ -61,29 +76,28 @@ _See our_ [Technical Specification]( https://techspec.casperlabs.io/) to underst
 
 ## Validators/Node Operators
 
-- With this documentation you will gain insight and understanding about what CasperLabs is building
+- Gain insight and understanding about what CasperLabs is building
 - Learn how to operate a **validator node** or **stake the network**  understanding the economics behind it
 - Join a community of like-minded believers
 
 **Pre-requisites:**
 
 - Web access
-- Basic understanding on how to use web applications for generating and validating blockchain transactions
+- Basic understanding about how to use web applications for generating and validating blockchain transactions
 - Downloading and Setting Up a Node
 
 **Resources**
 
-- [CasperLabs Explorer](https://explorer.casperlabs.io/) -- takes you to the UI where you can setup security keys, obtain remuneration, and run transactions.
-- [CasperLabs Release Notes]( https://github.com/CasperLabs/CasperLabs/releases). See what is currently available in CasperLabs most current versions and get started with CasperLabs Explorer application.
+- [CasperLabs Explorer](https://explorer.casperlabs.io/) -- takes you to the UI where you can set up security keys, obtain remuneration, and run transactions.
+- [CasperLabs Release Notes]( https://github.com/CasperLabs/CasperLabs/releases). See what is currently available in our most current versions and get started with the CasperLabs Explorer application.
 
 ## dApp Developers
 
 - Understand what CasperLabs is building and how you can build your applications
-  - [Architecture](https://casperlabs.atlassian.net/wiki/spaces/EN/pages/12713999/Architecture+of+the+CasperLabs+node) 
 - Learn how to build and operate applications on the platform
 - Learn how to set up the CasperLabs environment locally
 - Learn how to create and test Smart Contracts with our Libraries
-- Contracts API
+- Work with our Contracts API to access our Rust resources
 
 **Pre-requisites:**
 
@@ -95,11 +109,12 @@ _See our_ [Technical Specification]( https://techspec.casperlabs.io/) to underst
 
 The following set of documentation is presented in order and provides instructions on Linux and OSx for setting up the CasperLabs environment locally, setting up Nodes, and building, testing, and executing Smart contracts to address your use case including:
 
-- CasperLabs - Smart contract template repository (Debian, Ubuntu, Mint, macOS)
+- CL-Smart contract template repository (Debian, Ubuntu, Mint, macOS)
+  - Documented Instructions -- How to build a local environment [Casperlabs Smart Contract template](https://github.com/zie1ony/casperlabs-smart-contract-template)
   - Demo -- [How to build a local environment](https://youtu.be/P8SC_upCqAg)
-  - Documentated Instructions -- How to build a local environment [Casperlabs Smart Contract template](https://github.com/zie1ony/casperlabs-smart-contract-template)
 - [CasperLabs DevNet tools](http://devnet-graphql.casperlabs.io:40403/graphql) (GraphQL)
 - [Useful Diagrams](https://github.com/CasperLabs/CasperLabs/blob/dev/docs/DIAGRAMS.md)
+- [Architecture](https://casperlabs.atlassian.net/wiki/spaces/EN/pages/12713999/Architecture+of+the+CasperLabs+node)
 
 ## Freelance Developer Community
 
@@ -119,9 +134,7 @@ Join a community of CasperLabs freelance developers to:
 
 **Resources**
 
-The following link provides a set of documentation is presented in order and provides instructions on Linux setting up the CasperLabs implementation locally, setting up Nodes, and building, testing, and executing Smart contracts to address your use case.
-
-[Resources](https://github.com/CasperLabs/CasperLabs/wiki/CasperLabs-Resources) 
+A complete set of [resource documentation](https://github.com/CasperLabs/CasperLabs/wiki/CasperLabs-Resources) is presented in step-by-step order with instructions for Linux for setting up the CasperLabs implementation locally, setting up Nodes, and building, testing, and executing Smart contracts to address your use case.
 
 ## General Blockchain Enthusiasts
 
@@ -158,23 +171,24 @@ General Enthusiasts of Blockchain technology are members of the CasperLabs Commu
 - [CasperLabs Community Forum](https://forums.casperlabs.io/) 
 
   Search topics, posts, information from and about our users.
-- 
+
+- Blog
 
 # Known Issues
 
-If you are not running your implemention on Linux, we are currently we are extending our tools to build and run execution-engine binaries on a Mac. -- we recommend using docker.
+If you are not running your implementation on Linux, we are currently extending our tools to build and run execution-engine binaries on Mac OSX -- we recommend using docker.
 
 # Reporting Issues
 
-If you find any issues, please [file an issue](https://github.com/CasperLabs/CasperLabs/issues/new) (for guidelines *see* [Contributing to CasperLabs](https://github.com/CasperLabs/CasperLabs/blob/dev/CONTRIBUTING.md))
+If you find any issues, please contact us to [file an issue](https://github.com/CasperLabs/CasperLabs/issues/new) (for guidelines *see* [Contributing to CasperLabs](https://github.com/CasperLabs/CasperLabs/blob/dev/CONTRIBUTING.md))
 
 You can also find support and resources for help as needed: [Getting Help](#Getting Help)
 
-# References
+# Useful References
 
 - [About Rust](rust-lang.org)
-- [Rust API documentation](https://github.com/CasperLabs/CasperLabs/blob/dev/execution-engine/contract-ffi/src/contract_api/mod.rs)
+- [Rust API documentation for the Rust std crate](https://github.com/CasperLabs/CasperLabs/blob/dev/execution-engine/contract-ffi/src/contract_api/mod.rs)
   <!--[- Learn about Rust](https://medium.com/learning-rust)-->
-  <!--Doc.rust-lang.org std - [Rust documentation](https://github.com/CasperLabs/CasperLabs/blob/dev/execution-engine/contract-ffi/src/contract_api/mod.rs).--> 
+  <!--Doc.rust-lang.org std - [Rust API documentation for the Rust std crate](https://github.com/CasperLabs/CasperLabs/blob/dev/execution-engine/contract-ffi/src/contract_api/mod.rs).--> 
   <!--[- CBC CasperLabs Resource List](https://github.com/ethereum/cbc-casper/wiki/Resource-List)--> 
   <!--[- About CBC Casper proof-of-stake protocol](https://blockgeeks.com/guides/ethereum-casper/)--> 
