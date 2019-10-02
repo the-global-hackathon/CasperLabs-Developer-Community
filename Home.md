@@ -4,6 +4,18 @@ This document provides information about how you can participate with our Casper
 
 So far the development of CasperLabs solution has been progressing with our internal resources and we are now at a stage of actively engaging our CasperLabs Community Members (CCM), also known as the CLarity Member (CM): adding features, improving functionality, developing dApps, fixing security holes and bugs, and contributing insights and feedback to advance the evolution of CasperLabs platform.
 
+  * [Current Developments](#current-developments)
+  * [Roadmap](#roadmap)
+- [Participating in the CasperLabs Community](#participating-in-the-casperlabs-community)
+- [Getting Started](#getting-started)
+  * [Validators/Node Operators](#validators-node-operators)
+  * [dApp Developers](#dapp-developers)
+  * [Freelance Developer Community](#freelance-developer-community)
+  * [General Blockchain Enthusiasts](#general-blockchain-enthusiasts)
+- [Getting Help](#getting-help)
+- [Known Issues](#known-issues)
+- [Reporting Issues](#reporting-issues)
+- [Useful References](#useful-references)
 ## Current Developments
 
 We present a new permissionless, decentralized and Turing-complete smart contract and cryptocurrency platform, backed by a proof-of-stake (PoS) consensus algorithm that is based on Vlad Zamfir's correct-by-construction (CBC) Casper work, with unique features:
@@ -46,7 +58,7 @@ Other features of the execution engine include:
 
 _See our_ [Technical Specification]( https://techspec.casperlabs.io/) to understand how, and get started with the information herein provided for CasperLabs Community members as follows:
 
-# Community Members
+# About Community Members
 - **Validators / Node Operators** are members of our Community who validate transactions on our platform
 
 - **dApp Developers** (Developers) are members of our Community who build Apps using our CasperLabs features. You can install our environment locally, create and test Smart contracts with our Smart Contracts and Test Libraries, and use these libraries to build your own applications,
@@ -59,7 +71,7 @@ _See our_ [Technical Specification]( https://techspec.casperlabs.io/) to underst
 
 # Getting Started
 
-## Validators/Node Operators (Investors)
+## Validators/Node Operators
 
 - With this documentation you will gain insight and understanding about what CasperLabs is building
 - Learn how to operate a **validator node** or **stake the network**  understanding the economics behind it
@@ -79,7 +91,6 @@ _See our_ [Technical Specification]( https://techspec.casperlabs.io/) to underst
 ## dApp Developers
 
 - Understand what CasperLabs is building and how you can build your applications
-  - [Architecture](https://casperlabs.atlassian.net/wiki/spaces/EN/pages/12713999/Architecture+of+the+CasperLabs+node) 
 - Learn how to build and operate applications on the platform
 - Learn how to set up the CasperLabs environment locally
 - Learn how to create and test Smart Contracts with our Libraries
@@ -100,6 +111,7 @@ The following set of documentation is presented in order and provides instructio
   - Documentated Instructions -- How to build a local environment [Casperlabs Smart Contract template](https://github.com/zie1ony/casperlabs-smart-contract-template)
 - [CasperLabs DevNet tools](http://devnet-graphql.casperlabs.io:40403/graphql) (GraphQL)
 - [Useful Diagrams](https://github.com/CasperLabs/CasperLabs/blob/dev/docs/DIAGRAMS.md)
+- [Architecture](https://casperlabs.atlassian.net/wiki/spaces/EN/pages/12713999/Architecture+of+the+CasperLabs+node)
 
 ## Freelance Developer Community
 
@@ -161,16 +173,15 @@ General Enthusiasts of Blockchain technology are members of the CasperLabs Commu
 
 # Known Issues
 
-If you are not running your implemention on Linux, we are currently we are extending our tools to build and run execution-engine binaries on a Mac. -- we recommend using docker.
+If you are not running your implementation on Linux, we are currently extending our tools to build and run execution-engine binaries on Mac OSX -- we recommend using docker.
 
 # Reporting Issues
 
-If you find any issues, please [file an issue](https://github.com/CasperLabs/CasperLabs/issues/new) (for guidelines *see* [Contributing to CasperLabs](https://github.com/CasperLabs/CasperLabs/blob/dev/CONTRIBUTING.md))
+If you find any issues, please contact us to [file an issue](https://github.com/CasperLabs/CasperLabs/issues/new) (for guidelines *see* [Contributing to CasperLabs](https://github.com/CasperLabs/CasperLabs/blob/dev/CONTRIBUTING.md))
 
 You can also find support and resources for help as needed: [Getting Help](#Getting Help)
 
-# References
-
+# Useful References
 - [About Rust](rust-lang.org)
 - [Rust API documentation for the Rust std crate](https://github.com/CasperLabs/CasperLabs/blob/dev/execution-engine/contract-ffi/src/contract_api/mod.rs)
   <!--[- Learn about Rust](https://medium.com/learning-rust)-->
