@@ -28,8 +28,6 @@ State Queries with GraphQL -- write and execute a smart contract on our platform
 
 LA Blockchain week locations
 
-
-
 # Participate
 
 ### Pre-Registration
@@ -65,8 +63,8 @@ To get connected to the GraphQL Hackathon/Project, Join the [CasperLabs Discord 
 Please follow the steps on this list:
 
 1. Read and Sign the **Casper Code of Conduct**
-2. Get to Know [GraphQL Schema/Types](https://casperlabs.atlassian.net/wiki/spaces/EN/pages/92176385/GraphQL+Schema+Types) 
-3. Download and ReviewCasperLabs Smart Contract Examples](https://github.com/CasperLabs/contract-examples/tree/master)
+2. Get to Know our [CL GraphQL Schema/Types](https://casperlabs.atlassian.net/wiki/spaces/EN/pages/92176385/GraphQL+Schema+Types) 
+3. Download and Review CasperLabs [CasperLabs Smart Contract Examples](https://github.com/CasperLabs/contract-examples/tree/master)
 
    - Pre-requisite: [rustup](https://rustup.rs/)
 
