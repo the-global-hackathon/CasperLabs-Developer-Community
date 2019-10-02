@@ -173,7 +173,7 @@ You can also find support and resources for help as needed: [Getting Help](#Gett
 # References
 
 - [About Rust](rust-lang.org)
-- [Rust API documentation for the Rust std crate](https://github.com/CasperLabs/CasperLabs/blob/dev/execution-engine/contract-ffi/src/contract_api/mod.rs)
+- [Rust API documentation](https://github.com/CasperLabs/CasperLabs/blob/dev/execution-engine/contract-ffi/src/contract_api/mod.rs)
   <!--[- Learn about Rust](https://medium.com/learning-rust)-->
   <!--Doc.rust-lang.org std - [Rust documentation](https://github.com/CasperLabs/CasperLabs/blob/dev/execution-engine/contract-ffi/src/contract_api/mod.rs).--> 
   <!--[- CBC CasperLabs Resource List](https://github.com/ethereum/cbc-casper/wiki/Resource-List)--> 
