@@ -1,4 +1,4 @@
-# Welcome to the CasperLabs wiki!
+[Blog](https://medium.com/casperlabs)# Welcome to the CasperLabs wiki!
 
 This document provides information about how you can participate in our CasperLabs Community Engagement Program.
 
@@ -172,7 +172,7 @@ General Enthusiasts of Blockchain technology are members of the CasperLabs Commu
 
   Search topics, posts, information from and about our users.
 
-- Blog
+- [Blog](https://medium.com/casperlabs)
 
 # Known Issues
 
