@@ -1,14 +1,16 @@
+## Welcome to our our Graph QL Interface Challenge!
+
+CasperLabs is sponsoring the Graph QL Interface Challenge at LA Blockchain week as part of the CIS Global Hackathon! Come and join us.
+
+Here we provide overview of this event with the resources for you to prepare and get started with your projects.
+
 ## About the Graph QL Interface Challenge 
-
-CasperLabs sponsoring the Graph QL Interface Challenge at LA Blockchain week as part of the CIS Global Hackathon! Come and join us.
-
-This document provides an overview of this event with the resources for you to prepare and get started with your projects.
 
 ## Event details
 
 ### **Theme:** 
 
-State Queries with GraphQL -- write and execute a smart contract on our platform (**requires participants to be RUST engineers**) <!--Ask Maciej-->
+State Queries with GraphQL -- write and execute a smart contract on our platform (**requires participants to be RUST engineers**) <!--Maciej-->
 
 ## **Prizes**
 
