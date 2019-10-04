@@ -6,6 +6,6 @@ The following presents a list of past, present, and upcoming Events sponsored by
 
 **Participants:** Community members and participants
 
-**CasperLabs Track:** [GraphQL Interface Challenge](https://github.com/CasperLabs/CasperLabs/wiki/October-13-15--CLI-LA-Hackathon----GraphQL-Interface-Challenge)
+**CasperLabs Track:** [GraphQL Interface Challenge](https://github.com/CasperLabs/CasperLabs/wiki/October-13-18--CLI-LA-Hackathon----GraphQL-Interface-Challenge)
 
 **CasperLabs Challenge Details** 
