@@ -1,1 +1,0 @@
-[CasperLabs Developer Wiki](https://github.com/CasperLabs/CasperLabs/wiki/Home-of-the--CasperLabs-Developer-Community)
