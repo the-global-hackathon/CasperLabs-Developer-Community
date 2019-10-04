@@ -1,4 +1,4 @@
-# Welcome to the CasperLabs wiki!
+# Welcome to the CasperLabs Developer Community!
 
 This document provides information about how you can participate in our CasperLabs Community Engagement Program.
 
