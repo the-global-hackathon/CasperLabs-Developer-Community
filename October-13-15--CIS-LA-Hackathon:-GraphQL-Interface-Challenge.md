@@ -46,13 +46,13 @@ Read data from the network and use our GraphQL APIs in a new, surprising way. Yo
 1. Functionality
 1. Efficiency
 
-### **Documentation Repository**
-- Link to GraphQL tutorial: https://graphql.org 
-- Access our GraphQL APIs and schema through the console on our Clarity self-service portal: https://clarity.casperlabs.io/#/ 
-- GraphQL Console: http://devnet-graphql.casperlabs.io:40403/graphql
-- Slides of the presentation
+### **Getting Started**
+- [GraphQL tutorial](https://graphql.org )
+- Access our** GraphQL APIs and schema** through the console on our [Clarity self-service portal:] (https://clarity.casperlabs.io/#/) 
+- [GraphQL Console:] (http://devnet-graphql.casperlabs.io:40403/graphql)
+<-- - Slides of the presentation
 - Use Cases
-- Demo of the GraphQL - by our CasperLabs Ambassadors
+- Demo of the GraphQL - by our CasperLabs Ambassadors -->
 
 ## Pre-Requisites: 
 Please follow the steps on this list:
