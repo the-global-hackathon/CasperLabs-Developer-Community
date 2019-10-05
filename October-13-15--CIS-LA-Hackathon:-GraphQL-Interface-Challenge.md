@@ -5,7 +5,7 @@
 ***
 
 # About the Graph QL Interface Challenge 
-### Winners: CasperLabs is providing a Prizes totaling **1 bitcoin** shared among the winners.
+### Winners: CasperLabs is providing Prizes totaling **1 bitcoin** shared among the winners.
 
 ## [See Event Information and Registration](https://www.eventbrite.com/e/the-global-hackathon-los-angeles-blockchain-week-tickets-64574824037)
 
