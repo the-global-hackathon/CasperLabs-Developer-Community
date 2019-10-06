@@ -8,7 +8,13 @@
 ### Winners: CasperLabs is providing Prizes totaling **1 bitcoin** shared among the winners.
 
 ## [See Event Information and Registration](https://www.eventbrite.com/e/the-global-hackathon-los-angeles-blockchain-week-tickets-64574824037)
-
+- [Theme:](#theme-)
+  * [Rules:](#rules-)
+  * [**Judging Criteria** and Guidelines](#--judging-criteria---and-guidelines)
+    + [**Getting Started**](#--getting-started--)
+  * [Pre-Requisites:](#pre-requisites-)
+- [Connect](#connect)
+- [About CasperLabs Events](#about-casperlabs-events)
 ## Calendar
 **Day 1**  October 13 -- CasperLabs Demo and Presentation for the Hackathon 
 **Location:**  CIS Expo floor 
@@ -64,7 +70,7 @@ Please follow the steps on this list:
 # Connect
 Join the [CasperLabs Discord Channel](https://discord.gg/n9bBs8W) to get connected to the GraphQL challenge and work with our Ambassador Mentors 
 
-## About CasperLabs Events
+# About CasperLabs Events
 **[CasperLabs Blog](https://medium.com/casperlabs)**  
 
 
