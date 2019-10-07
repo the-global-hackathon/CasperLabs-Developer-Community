@@ -22,7 +22,7 @@ Meet our CasperLabs mentors who will facilitate your projects.
 And move to the Global Hackathon Site held at the Ethos Society co-working site in Koreatown; 
 
 **Day 2**  October 14  -- Build Day
-**Location* Space will be available for you at the GHS Working held at the Ethos Society co-working site in Koreatown 
+**Location** Space will be available for you at the GHS Working held at the Ethos Society co-working site in Koreatown 
 
 **Day 3** October 15 -- Build Day and winners announced 
 * **Morning** Final touches on your project
@@ -34,14 +34,14 @@ State Queries with GraphQL -- write and execute a smart contract on our platform
 Read data from the network and use our GraphQL APIs in a new, surprising way. You might build a project from the ground up, using an existing open source project, or leverage a cloud service you are familiar with.
 
 ## Rules
-- Your project must use our GraphQL API in some way
-- All projects must be approved by CasperLabs mentor to be eligible
-- No using code from another team
-- Only projects with a working demo can be judged
-- Project needs to be public (Gituhb, Gitlab etc.) to be judged
-- Project must be OpenSource
-- No CasperLabs staff may participate
-- Must be submitted on or before Oct 16
+- Your project must use our GraphQL API in some way.
+- All projects must be approved by CasperLabs mentor to be eligible.
+- No using code from another team.
+- Only projects with a working demo can be judged.
+- Project needs to be public (Gituhb, Gitlab etc.) to be judged.
+- Project must be OpenSource.
+- No CasperLabs staff may participate.
+- Must be submitted on or before Oct 16.
 
 ## Judging Criteria and Guidelines
 
