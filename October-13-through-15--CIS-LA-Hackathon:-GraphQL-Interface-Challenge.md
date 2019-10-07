@@ -30,7 +30,7 @@ And move to the Global Hackathon Site held at the Ethos Society co-working site 
 * ***
 
 # Theme
-State Queries with GraphQL -- write and execute a smart contract on our platform 
+State Queries with GraphQL -- write and execute a smart contract on our platform.
 Read data from the network and use our GraphQL APIs in a new, surprising way. You might build a project from the ground up, using an existing open source project, or leverage a cloud service you are familiar with.
 
 ## Rules
