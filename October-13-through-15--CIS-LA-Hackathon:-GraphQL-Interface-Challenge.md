@@ -70,7 +70,8 @@ Read data from the network and use our GraphQL APIs in a new, surprising way. Yo
 Join the [CasperLabs Discord Channel](https://discord.gg/n9bBs8W) to get connected to the GraphQL challenge and work with our Ambassador Mentors 
 
 # CasperLabs Activities and Events
-** Get to know more about[us](https://medium.com/casperlabs)**  
+
+**Get to know more about [what we are up to at CasperLabs](https://medium.com/casperlabs)**
 
 
 
