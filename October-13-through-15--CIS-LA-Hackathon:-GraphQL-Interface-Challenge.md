@@ -14,7 +14,7 @@
 - [Judging Criteria and Guidelines](#Judging-Criteria-and-Guidelines)
 - [Getting Started](#getting-started)
 - [Connect](#connect)
-- [About CasperLabs Events](#about-casperlabs-events)
+- [CasperLabs Activities and Events](#casperlabs-activities-and-events)
 ## Calendar
 **Day 1**  October 13 -- CasperLabs Demo and Presentation for the Hackathon 
 **Location:**  CIS Expo floor 
@@ -54,27 +54,23 @@ Read data from the network and use our GraphQL APIs in a new, surprising way. Yo
 1. Efficiency
 
 ## Getting Started
-- [GraphQL tutorial](https://graphql.org )
-- Access our **GraphQL APIs and schema** through the console at:
-[Clarity self-service portal](https://clarity.casperlabs.io/#/) 
-- [GraphQL Console](http://devnet-graphql.casperlabs.io:40403/graphql)
+* [GraphQL tutorial](https://graphql.org )
+*  Access our **GraphQL APIs and schema** through the console at: [Clarity self-service portal](https://clarity.casperlabs.io/#/) 
+* [GraphQL Console](http://devnet-graphql.casperlabs.io:40403/graphql)
+*  Get to Know our [CL GraphQL Schema/Types](https://casperlabs.atlassian.net/wiki/spaces/EN/pages/92176385/GraphQL+Schema+Types) 
+* Download and Review CasperLabs [CasperLabs Smart Contract Examples](https://github.com/CasperLabs/contract-examples/tree/master)
+    - Pre-requisite: [rustup](https://rustup.rs/)
+
 
 <-- - Slides of the presentation
 - Use Cases
 - Demo of the GraphQL - by our CasperLabs Ambassadors -->
 
-## Pre-Requisites 
-Please follow the steps on this list:
-1. Read and Sign the **Casper Code of Conduct**
-2. Get to Know our [CL GraphQL Schema/Types](https://casperlabs.atlassian.net/wiki/spaces/EN/pages/92176385/GraphQL+Schema+Types) 
-3. Download and Review CasperLabs [CasperLabs Smart Contract Examples](https://github.com/CasperLabs/contract-examples/tree/master)
-   - Pre-requisite: [rustup](https://rustup.rs/)
-
 # Connect
 Join the [CasperLabs Discord Channel](https://discord.gg/n9bBs8W) to get connected to the GraphQL challenge and work with our Ambassador Mentors 
 
-# About CasperLabs Events
-**[CasperLabs](https://medium.com/casperlabs)**  
+# CasperLabs Activities and Events
+** Get to know more about[us](https://medium.com/casperlabs)**  
 
 
 
