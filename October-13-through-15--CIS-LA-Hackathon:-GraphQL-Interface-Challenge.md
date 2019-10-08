@@ -46,17 +46,16 @@ Read data from the network and use our GraphQL APIs in a new, surprising way. Yo
 ## Judging Criteria and Guidelines
 
 1. "Wow" effect
-1. Ingenuity - Something New to the Ecosystem
-1. Innovation
+1. Innovation/Ingenuity - Something New to the Ecosystem
 1. Quality of demo
 1. Reusability
 1. Functionality
 1. Efficiency
 
 ## Getting Started
-* [GraphQL tutorial](https://graphql.org )
-*  Access our **GraphQL APIs and schema** through the console at: [Clarity self-service portal](https://clarity.casperlabs.io/#/) 
-* [GraphQL Console](http://devnet-graphql.casperlabs.io:40403/graphql)
+* [GraphQL tutorial](https://graphql.org ): GraphQL company website tutorial for getting started with GraphQL
+*  [Clarity self-service portal](https://clarity.casperlabs.io/#/) CasperLabs **GraphQL APIs and schema** can best be accessed through this CasperLabs console 
+* [GraphQL Console](http://devnet-graphql.casperlabs.io:40403/graphql): CasperLabs GraphQL Console
 *  Get to Know our [CL GraphQL Schema/Types](https://casperlabs.atlassian.net/wiki/spaces/EN/pages/92176385/GraphQL+Schema+Types) 
 * Download and Review CasperLabs [CasperLabs Smart Contract Examples](https://github.com/CasperLabs/contract-examples/tree/master)
     - Pre-requisite: [rustup](https://rustup.rs/)
