@@ -40,4 +40,4 @@ Join the [CasperLabs Discord Channel](https://discord.gg/n9bBs8W) so you can wor
 
 * **Day 1:** 10/13 -- Welcome, CIS Expo floor CasperLabs Demo 
 * **Days 2 & 3:** 10/14 - 15 -- Build Days 
-* **Day 4:** 10/16 -- Complete and Submit your projects. Winners will be announced on CIS Expo floor.
+* **Day 4:** 10/16 -- Complete and Submit your projects. Winners will be announced on CIS Expo floor followed by a Yacht Party.
