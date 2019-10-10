@@ -1,7 +1,7 @@
 # Welcome to the Graph QL Interface Challenge!
 
 CasperLabs is sponsoring the Graph QL Interface Challenge at LA Blockchain week as part of the CIS Global Hackathon. **First, Second, and Third Place Prizes totaling 1 bitcoin are to be awarded among the 3 winning teams in this challenge.**
-## [Click Here to find uut more about how you can participate](https://medium.com/casperlabs/casperlabs-is-sponsoring-the-graphql-interface-challenge-at-la-blockchain-week-hackathon-october-c8233262899e)
+## [Click Here to find out more about how you can participate](https://medium.com/casperlabs/casperlabs-is-sponsoring-the-graphql-interface-challenge-at-la-blockchain-week-hackathon-october-c8233262899e)
 
 ***
 # About this challenge
