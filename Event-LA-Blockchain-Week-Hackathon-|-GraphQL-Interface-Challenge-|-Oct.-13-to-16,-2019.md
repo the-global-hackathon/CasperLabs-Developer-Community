@@ -5,9 +5,9 @@ CasperLabs is sponsoring the Graph QL Interface Challenge at LA Blockchain week 
 
 ***
 # About this challenge
-**State Queries with GraphQL**:  Write and execute a Smart contract on our platform. Read data from the network and use our GraphQL APIs in a new, surprising way. Build a project from the ground up using an existing open source project, or leverage a cloud service you are familiar with.
+**State Queries with GraphQL**:  Write and execute a Smart contract on our platform. Read data from the network and use our GraphQL APIs in new and surprising ways. Build a project from the ground up using an existing open source project, or leverage a cloud service you are familiar with. It is all up to you!
 
-## Get Started
+## To Get Started
 During the hackathon, you will use CasperLabs node's GraphQL interface. 
 * **Access** our GraphQL APIs and schema through the console on our [Clarity self-service portal](https://clarity.casperlabs.io/#/). If you are not familiar with GraphQL, their website is [**here**](https://graphql.org).
  
