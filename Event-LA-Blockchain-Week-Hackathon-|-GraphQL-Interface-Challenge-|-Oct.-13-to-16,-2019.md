@@ -9,8 +9,7 @@ CasperLabs is sponsoring the Graph QL Interface Challenge at LA Blockchain week 
 
 ## Get Started
 During the hackathon, you will use CasperLabs node's GraphQL interface. 
-* **Access** our GraphQL APIs and schema through the console on our [Clarity self-service portal](https://clarity.casperlabs.io/#/).
-If you are not familiar with GraphQL, their website is [**here**](https://graphql.org)
+* **Access** our GraphQL APIs and schema through the console on our [Clarity self-service portal](https://clarity.casperlabs.io/#/). If you are not familiar with GraphQL, their website is [**here**](https://graphql.org).
  
 ## Connect with Us Real Time
 Join the [CasperLabs Discord Channel](https://discord.gg/n9bBs8W) so you can work with our team members here to support you with your project.
