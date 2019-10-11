@@ -35,7 +35,8 @@ Join the [CasperLabs Discord Channel](https://discord.gg/n9bBs8W) so you can wor
 * Efficiency
 
 ### Schedule 
-#### Daily Updates and Logistics [HERE](https://docs.google.com/document/d/1KY5hTV5AfyhHC6_FrRIJsc9u9GBGsIGZ_4G4onStK3U/edit) 
 * **Day 1:** 10/13 -- Welcome, CIS Expo floor CasperLabs Demo 
 * **Days 2 & 3:** 10/14 - 15 -- Build Days 
-* **Day 4:** 10/16 -- Complete and Submit your projects. Winners will be announced on CIS Expo floor followed by the Yacht Party at Marina Del Rey.
+* **Day 4:** 10/16 -- Complete and turn in your work. Winners will be announced on CIS Expo floor.
+
+Discover more about [CasperLabs](https://casperlabs.io/)
