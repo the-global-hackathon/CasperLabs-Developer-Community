@@ -1,4 +1,4 @@
-###  A part of this year's 2019 LA Blockchain week, CasperLabs is excited about sponsoring the Graph QL Interface Challenge with a 1 Bitcoin prize.
+###  As part of this year's 2019 LA Blockchain week, CasperLabs is excited about sponsoring the Graph QL Interface Challenge with a 1 Bitcoin prize.
 #### Detailed information about the prize and participation in this hackathon is available --> [HERE](https://medium.com/casperlabs/casperlabs-is-sponsoring-the-graphql-interface-challenge-at-la-blockchain-week-hackathon-october-c8233262899e)
 
 ***
