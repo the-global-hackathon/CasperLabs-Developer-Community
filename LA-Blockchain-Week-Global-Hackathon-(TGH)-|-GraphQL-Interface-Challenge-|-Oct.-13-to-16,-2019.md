@@ -1,6 +1,12 @@
 ###  As part of this year's 2019 LA Blockchain week, CasperLabs is excited about sponsoring the Graph QL Interface Challenge with 1 Bitcoin worth of prizes.
 #### Detailed information about prizes and participation in this hackathon is available --> [HERE](https://medium.com/casperlabs/casperlabs-is-sponsoring-the-graphql-interface-challenge-at-la-blockchain-week-hackathon-october-c8233262899e)
 
+- [The Challenge - **State Queries with GraphQL**](#the-challenge-----state-queries-with-graphql--)
+- [Get Started](#get-started)
+- [Real Time Live Support from our Engineering Team](#real-time-live-support-from-our-engineering-team--here--https---discordgg-n9bbs8w--on-casperlabs-discord-channel)
+- [General Rules and Judging Guidelines](#general-rules-and-judging-guidelines)
+- [General Calendar](#general-calendar)
+
 ***
 # The Challenge - **State Queries with GraphQL**  
 During the hackathon, you will work with the CasperLabs node's GraphQL interface: 
@@ -9,14 +15,14 @@ During the hackathon, you will work with the CasperLabs node's GraphQL interface
 
 Build your project from the ground up, start with an existing open source project, or leverage a cloud service you prefer. The choice is yours.
 
-# To Start
+# Get Started
 * **Access the CasperLabs GraphQL APIs and schema** through our [Clarity self-service portal](https://clarity.casperlabs.io/#/) console
 * If you are new to **GraphQL** you can check out their site [HERE](https://graphql.org/)
-## Get Real Time Live Support from our Tech Team on [CasperLabs Discord Channel](https://discord.gg/n9bBs8W).
+## Real Time Live Support from our Engineering Team [HERE](https://discord.gg/n9bBs8W) on CasperLabs Discord Channel.
  
 ***
-## General Rules and Judging Guidelines
-#### Rules
+# General Rules and Judging Guidelines
+### Rules
 * Your project must use our GraphQL API in some way
 * Don’t take code from another team
 * Only projects with a working demo can be judged
@@ -26,7 +32,7 @@ Build your project from the ground up, start with an existing open source projec
 * No CasperLabs staff may participate
 * Projects must be turned in on or before October 16
 
-#### Guidelines
+### Guidelines
 * "Wow" effect
 * Innovation - Something New to the Ecosystem
 * Quality of demo
