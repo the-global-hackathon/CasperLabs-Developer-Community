@@ -3,7 +3,7 @@
 ***
 - [The Challenge is to **State Queries with GraphQ**L](#the-challenge-is-to-state-queries-with-graphql)
 - [Get Started](#get-started)
-- [Get Real Time Live Support from our Engineering Team](https://discord.gg/n9bBs8W)
+- [Get Real Time Live Support from our Engineering Team](https://discordapp.com/invite/ANz5Nzf)
 - [General Rules and Judging Guidelines](#general-rules-and-judging-guidelines)
 - [General Calendar](#general-calendar)
 - [Discover more about our CasperLabs Community](https://casperlabs.io/#community)
