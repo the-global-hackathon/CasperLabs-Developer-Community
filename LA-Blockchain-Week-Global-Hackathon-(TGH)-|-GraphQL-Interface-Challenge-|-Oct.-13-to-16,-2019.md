@@ -1,5 +1,7 @@
 ###  As part of this year's 2019 LA Blockchain week, CasperLabs is excited about sponsoring the Graph QL Interface Challenge with 1 Bitcoin worth of prizes.
 #### Detailed information about prizes and participation in this hackathon is available --> [HERE](https://medium.com/casperlabs/casperlabs-is-sponsoring-the-graphql-interface-challenge-at-la-blockchain-week-hackathon-october-c8233262899e)
+***
+
 
 - [The Challenge - **State Queries with GraphQL**](#the-challenge-----state-queries-with-graphql--)
 - [Get Started](#get-started)
@@ -18,7 +20,8 @@ Build your project from the ground up, start with an existing open source projec
 # Get Started
 * **Access the CasperLabs GraphQL APIs and schema** through our [Clarity self-service portal](https://clarity.casperlabs.io/#/) console
 * If you are new to **GraphQL** you can check out their site [HERE](https://graphql.org/)
-## Real Time Live Support from our Engineering Team [HERE](https://discord.gg/n9bBs8W) on CasperLabs Discord Channel.
+
+# [Get Real Time Live Support from our Engineering Team HERE](https://discord.gg/n9bBs8W) on CasperLabs Discord Channel.
  
 ***
 # General Rules and Judging Guidelines
