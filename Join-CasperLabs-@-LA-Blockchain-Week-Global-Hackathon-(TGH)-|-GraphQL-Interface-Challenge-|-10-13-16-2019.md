@@ -43,4 +43,4 @@ Join the [CasperLabs Discord Channel](https://discord.gg/n9bBs8W) with our team 
 
 **For Additional Details about TGH and/or LA Blockchain Week questions,** please contact the organizer, Austin Davis, directly on Twitter @aedavis
 ***
-## Discover more about our [CasperLabs Community](https://casperlabs.io/#community).
+## Discover more about our [CasperLabs Community](https://casperlabs.io/#community)
