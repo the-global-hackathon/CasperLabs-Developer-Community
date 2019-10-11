@@ -5,7 +5,8 @@
 # The Challenge - **State Queries with GraphQL**  
 During the hackathon, you will work with the CasperLabs node's GraphQL interface: 
 * Write and execute your smart contract on our platform 
-* Read data from the network using CasperLabs' GraphQL APIs 
+* Read data from the network using CasperLabs' GraphQL APIs
+ 
 You can build your project from the ground up, start with an existing open source project, or leverage a cloud service you prefer. The choice is yours.
 
 # To Start
