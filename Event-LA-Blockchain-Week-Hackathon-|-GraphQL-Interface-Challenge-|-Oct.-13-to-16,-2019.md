@@ -1,10 +1,10 @@
 # Welcome to the Graph QL Interface Challenge!
 
-CasperLabs is sponsoring the Graph QL Interface Challenge at LA Blockchain week as part of the CIS Global Hackathon. **First, Second, and Third Place Prizes totaling 1 bitcoin are to be awarded among the 3 winning teams in this challenge.**
-## [Click HERE to find out more about how you can participate](https://medium.com/casperlabs/casperlabs-is-sponsoring-the-graphql-interface-challenge-at-la-blockchain-week-hackathon-october-c8233262899e)
+CasperLabs is sponsoring the Graph QL Interface Challenge at LA Blockchain week as part of the CIS Global Hackathon. **Prizes totaling 1 bitcoin are to be awarded among the winning teams in this challenge.**
+## [Click HERE to find out more about how you can participate.](https://medium.com/casperlabs/casperlabs-is-sponsoring-the-graphql-interface-challenge-at-la-blockchain-week-hackathon-october-c8233262899e)
 
 ***
-# About this challenge
+# About this Challenge
 **State Queries with GraphQL**:  Write and execute a Smart contract on our platform. Read data from the network and use our GraphQL APIs in new and surprising ways. Build a project from the ground up using an existing open source project, or leverage a cloud service you are familiar with. It is all up to you!
 
 ## To Get Started
@@ -34,9 +34,8 @@ Join the [CasperLabs Discord Channel](https://discord.gg/n9bBs8W) so you can wor
 * Functionality
 * Efficiency
 
-### Schedule
-[**Follow us at this link for up-to-the-minute updates**](https://medium.com/casperlabs)
-
+### Schedule 
+#### Daily Updates and Logistics [HERE](https://docs.google.com/document/d/1KY5hTV5AfyhHC6_FrRIJsc9u9GBGsIGZ_4G4onStK3U/edit) 
 * **Day 1:** 10/13 -- Welcome, CIS Expo floor CasperLabs Demo 
 * **Days 2 & 3:** 10/14 - 15 -- Build Days 
-* **Day 4:** 10/16 -- Complete and Submit your projects. Winners will be announced on CIS Expo floor followed by a Yacht Party.
+* **Day 4:** 10/16 -- Complete and Submit your projects. Winners will be announced on CIS Expo floor followed by the Yacht Party at Marina Del Rey.
