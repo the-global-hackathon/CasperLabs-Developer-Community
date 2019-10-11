@@ -1,22 +1,20 @@
-####  CasperLabs is excited to be sponsoring the Graph QL Interface Challenge @ this year's 2019 LA Blockchain week. 
-### Detailed information about this hackathon is available --> [HERE](https://medium.com/casperlabs/casperlabs-is-sponsoring-the-graphql-interface-challenge-at-la-blockchain-week-hackathon-october-c8233262899e)
+###  CasperLabs is excited about sponsoring the Graph QL Interface Challenge as part of this year's 2019 LA Blockchain week. 
+
+#### Detailed information about prizes and participation in this hackathon is available --> [HERE](https://medium.com/casperlabs/casperlabs-is-sponsoring-the-graphql-interface-challenge-at-la-blockchain-week-hackathon-october-c8233262899e)
 
 ***
 # The Challenge - **State Queries with GraphQL**  
 During the hackathon, you will work with the CasperLabs node's GraphQL interface: 
 * Write and execute your smart contract on our platform 
 * Read data from the network using CasperLabs' GraphQL APIs 
-***
-
-
 # To Start
 * **Access the CasperLabs GraphQL APIs and schema** through the console of our [Clarity self-service portal](https://clarity.casperlabs.io/#/) 
-* **GraphQL resources** are found [here:] (https://graphql.org/)
+* **GraphQL resources** are found [HERE](https://graphql.org/)
 
-**Note:** You can build your project from the ground up, start with an existing open source project, or leverage a cloud service you are familiar with. The choice is yours.
+**Note:** You can build your project from the ground up, start with an existing open source project, or leverage a cloud service you prefer. The choice is yours.
 
-## Contact our Tech Leads Directly
-For real-time help join us @ [CasperLabs Discord Channel](https://discord.gg/n9bBs8W) so you can work with our team members available to support you with your project.
+## Work with our Tech Leads
+Join the [CasperLabs Discord Channel](https://discord.gg/n9bBs8W) with our team members available to support you with your project.
  
 ***
 ## General Rules and Judging Guidelines
@@ -38,9 +36,11 @@ For real-time help join us @ [CasperLabs Discord Channel](https://discord.gg/n9b
 * Functional
 * Efficient
 
-### Daily Activities
+### General Calendar
 * **Day 1:** 10/13 -- Welcome, CIS Expo floor CasperLabs Demo 
 * **Days 2 & 3:** 10/14 - 15 -- Build Days 
 * **Day 4:** 10/16 -- Commit your work on or before October 16. Our CTO, Medha Parlikar will be announcing the winning team on stage at the CIS Expo location.
 
-Discover more about [CasperLabs Community](https://casperlabs.io/#community).
+**For Additional Details about TGH and/or LA Blockchain Week questions,** please contact the organizer, Austin Davis, directly on Twitter @aedavis
+***
+## Discover more about our [CasperLabs Community](https://casperlabs.io/#community).
