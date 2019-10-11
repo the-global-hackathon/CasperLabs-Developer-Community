@@ -1,14 +1,14 @@
 ###  As part of this year's 2019 LA Blockchain week, CasperLabs is excited about sponsoring the Graph QL Interface Challenge with 1 Bitcoin worth of prizes.
 #### Detailed information about prizes and participation in this hackathon is available --> [HERE](https://medium.com/casperlabs/casperlabs-is-sponsoring-the-graphql-interface-challenge-at-la-blockchain-week-hackathon-october-c8233262899e)
 ***
-- [The Challenge - **State Queries with GraphQL**](#the-challenge-----state-queries-with-graphql--)
+- [The Challenge - **State Queries with GraphQL**](#the-challenge:-state-queries-with-graphql)
 - [Get Started](#get-started)
-- [Get Real Time Live Support from our Engineering Team](#-get-real-time-live-support--https---discordgg-n9bbs8w--from-our-engineering-team-on-casperlabs-discord-channel)
+- [Get Real Time Live Support from our Engineering Team](https://discord.gg/n9bBs8W)
 - [General Rules and Judging Guidelines](#general-rules-and-judging-guidelines)
 - [General Calendar](#general-calendar)
 
 ***
-# The Challenge - **State Queries with GraphQL**  
+# The Challenge: State Queries with GraphQL  
 During the hackathon, you will work with the CasperLabs node's GraphQL interface: 
 * Write and execute your smart contract on our platform 
 * Read data from the network using CasperLabs' GraphQL APIs
