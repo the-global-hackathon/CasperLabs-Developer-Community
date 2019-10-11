@@ -5,7 +5,7 @@
 
 - [The Challenge - **State Queries with GraphQL**](#the-challenge-----state-queries-with-graphql--)
 - [Get Started](#get-started)
-- [Real Time Live Support from our Engineering Team](#real-time-live-support-from-our-engineering-team--here--https---discordgg-n9bbs8w--on-casperlabs-discord-channel)
+- [Get Real Time Live Support from our Engineering Team](#real-time-live-support-from-our-engineering-team--here--https---discordgg-n9bbs8w--on-casperlabs-discord-channel)
 - [General Rules and Judging Guidelines](#general-rules-and-judging-guidelines)
 - [General Calendar](#general-calendar)
 
