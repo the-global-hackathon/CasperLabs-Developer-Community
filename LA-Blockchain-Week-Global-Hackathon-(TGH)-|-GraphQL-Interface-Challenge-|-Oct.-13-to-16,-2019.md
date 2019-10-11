@@ -21,7 +21,7 @@ Build your project from the ground up, start with an existing open source projec
 * **Access the CasperLabs GraphQL APIs and schema** through our [Clarity self-service portal](https://clarity.casperlabs.io/#/) console
 * If you are new to **GraphQL** you can check out their site [HERE](https://graphql.org/)
 
-# [Get Real Time Live Support from our Engineering Team HERE](https://discord.gg/n9bBs8W) on CasperLabs Discord Channel.
+### [Get Real Time Live Support](https://discord.gg/n9bBs8W) from our Engineering Team on CasperLabs Discord Channel.
  
 ***
 # General Rules and Judging Guidelines
